@@ -29,12 +29,13 @@ const HeroSection = () => {
         "service_zyc1jrc",
         "template_vui30ot",
         {
-          name,
-          email,
-          program,
-          miles,
+          name: name,
+          email: email,
+          program: program,
+          miles: miles,
+          to_email: "hello@milestopup.com",
         },
-        "4WZLMejoOYRfMkK-s"
+        { publicKey: "4WZLMejoOYRfMkK-s" }
       );
       toast.success("Quote request sent! We'll get back to you shortly.");
       setName("");
