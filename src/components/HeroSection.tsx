@@ -1,8 +1,31 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Plane } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { useState } from "react";
+import { toast } from "sonner";
 
 const HeroSection = () => {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [miles, setMiles] = useState("");
+  const [program, setProgram] = useState("");
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!name || !email || !miles || !program) {
+      toast.error("Please fill in all fields.");
+      return;
+    }
+    toast.success("Quote request sent! We'll get back to you shortly.");
+    setName("");
+    setEmail("");
+    setMiles("");
+    setProgram("");
+  };
+
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden px-4 pt-20">
       {/* Background glow */}
@@ -31,23 +54,6 @@ const HeroSection = () => {
             No drama, no hassle—just the miles you need for that award flight.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 pt-2">
-            <Button
-              size="lg"
-              className="gold-gradient text-primary-foreground font-semibold text-base px-8 py-6 rounded-xl glow-gold hover:opacity-90 transition-opacity"
-            >
-              Get a Quote
-              <ArrowRight className="ml-2 w-5 h-5" />
-            </Button>
-            <Button
-              variant="outline"
-              size="lg"
-              className="border-border text-foreground hover:bg-secondary px-8 py-6 rounded-xl text-base"
-            >
-              How It Works
-            </Button>
-          </div>
-
           <div className="flex items-center gap-6 pt-4 text-sm text-muted-foreground">
             <span className="flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-success" />
@@ -60,46 +66,77 @@ const HeroSection = () => {
           </div>
         </motion.div>
 
-        {/* Right: Glassmorphic Card */}
+        {/* Right: Quote Form */}
         <motion.div
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.2 }}
           className="flex justify-center"
         >
-          <div className="float-animation">
-            <div className="glass-card p-8 w-[340px] space-y-6 glow-gold relative">
-              <div className="absolute -top-3 -right-3 w-16 h-16 bg-primary/10 rounded-full blur-2xl" />
-              
-              <div className="flex items-center justify-between">
-                <span className="text-xs text-muted-foreground uppercase tracking-wider">Miles Balance</span>
-                <span className="text-xs px-2 py-0.5 rounded-full bg-success/15 text-success">Active</span>
-              </div>
+          <form onSubmit={handleSubmit} className="glass-card p-8 w-full max-w-[400px] space-y-5 glow-gold relative">
+            <div className="absolute -top-3 -right-3 w-16 h-16 bg-primary/10 rounded-full blur-2xl" />
 
-              <div className="space-y-4">
-                <div className="glass-card p-4 space-y-1">
-                  <span className="text-xs text-muted-foreground">Avios</span>
-                  <div className="flex items-baseline gap-2">
-                    <span className="text-2xl font-bold font-display gold-text">125,000</span>
-                    <span className="text-xs text-success">+25k</span>
-                  </div>
-                </div>
-
-                <div className="glass-card p-4 space-y-1">
-                  <span className="text-xs text-muted-foreground">Flying Blue</span>
-                  <div className="flex items-baseline gap-2">
-                    <span className="text-2xl font-bold font-display gold-text">80,000</span>
-                    <span className="text-xs text-success">+15k</span>
-                  </div>
-                </div>
-              </div>
-
-              <div className="flex items-center justify-between pt-2 border-t border-border">
-                <span className="text-xs text-muted-foreground">Last top-up: 2 days ago</span>
-                <Plane className="w-4 h-4 text-primary" />
-              </div>
+            <div className="space-y-1">
+              <h3 className="text-lg font-bold font-display">Get a Quote</h3>
+              <p className="text-xs text-muted-foreground">Fill in the details and we'll send you a price.</p>
             </div>
-          </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="name" className="text-xs text-muted-foreground">Your Name</Label>
+              <Input
+                id="name"
+                placeholder="John Doe"
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                className="bg-secondary/50 border-border"
+              />
+            </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="email" className="text-xs text-muted-foreground">Email Address</Label>
+              <Input
+                id="email"
+                type="email"
+                placeholder="john@example.com"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                className="bg-secondary/50 border-border"
+              />
+            </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="program" className="text-xs text-muted-foreground">Miles Program</Label>
+              <Select value={program} onValueChange={setProgram}>
+                <SelectTrigger className="bg-secondary/50 border-border">
+                  <SelectValue placeholder="Select program" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="avios">Avios</SelectItem>
+                  <SelectItem value="flying-blue">Flying Blue</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="miles" className="text-xs text-muted-foreground">Desired Miles</Label>
+              <Input
+                id="miles"
+                type="number"
+                placeholder="e.g. 50000"
+                value={miles}
+                onChange={(e) => setMiles(e.target.value)}
+                className="bg-secondary/50 border-border"
+              />
+            </div>
+
+            <Button
+              type="submit"
+              className="w-full gold-gradient text-primary-foreground font-semibold text-base py-6 rounded-xl glow-gold hover:opacity-90 transition-opacity"
+            >
+              Get a Quote
+              <ArrowRight className="ml-2 w-5 h-5" />
+            </Button>
+          </form>
         </motion.div>
       </div>
     </section>
