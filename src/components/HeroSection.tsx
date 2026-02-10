@@ -3,6 +3,7 @@ import { ArrowRight, Plane } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import emailjs from "@emailjs/browser";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { useState } from "react";
 import { toast } from "sonner";
@@ -13,17 +14,38 @@ const HeroSection = () => {
   const [miles, setMiles] = useState("");
   const [program, setProgram] = useState("");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const [sending, setSending] = useState(false);
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!name || !email || !miles || !program) {
       toast.error("Please fill in all fields.");
       return;
     }
-    toast.success("Quote request sent! We'll get back to you shortly.");
-    setName("");
-    setEmail("");
-    setMiles("");
-    setProgram("");
+
+    setSending(true);
+    try {
+      await emailjs.send(
+        "service_zyc1jrc",
+        "template_vui30ot",
+        {
+          name,
+          email,
+          program,
+          miles,
+        },
+        "4WZLMejoOYRfMkK-s"
+      );
+      toast.success("Quote request sent! We'll get back to you shortly.");
+      setName("");
+      setEmail("");
+      setMiles("");
+      setProgram("");
+    } catch (error) {
+      toast.error("Something went wrong. Please try again or email us at hello@milestopup.com.");
+    } finally {
+      setSending(false);
+    }
   };
 
   return (
@@ -135,10 +157,11 @@ const HeroSection = () => {
 
             <Button
               type="submit"
-              className="w-full gold-gradient text-primary-foreground font-semibold text-base py-6 rounded-xl glow-gold hover:opacity-90 transition-opacity"
+              disabled={sending}
+              className="w-full gold-gradient text-primary-foreground font-semibold text-base py-6 rounded-xl glow-gold hover:opacity-90 transition-opacity disabled:opacity-50"
             >
-              Get a Quote
-              <ArrowRight className="ml-2 w-5 h-5" />
+              {sending ? "Sending..." : "Get a Quote"}
+              {!sending && <ArrowRight className="ml-2 w-5 h-5" />}
             </Button>
           </form>
         </motion.div>
