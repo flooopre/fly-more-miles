@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     q: "How much does it cost per mile?",
-    a: "Pricing depends on the quantity. For smaller orders, rates start around 1.5¢ per mile. For larger orders (100k+), rates can go as low as 1.34¢ per mile. Request a quote for your exact price — it's free and there's no obligation.",
+    a: "Pricing depends on the quantity. For smaller orders, rates start around 1.6¢ per mile. For larger orders (100k+), rates can go as low as 1.3¢ per mile. Request a quote for your exact price — it's free and there's no obligation.",
   },
   {
     q: "What payment methods do you accept?",
