@@ -1,6 +1,8 @@
 import { motion } from "framer-motion";
-import { Star } from "lucide-react";
+import { Star, ChevronLeft, ChevronRight } from "lucide-react";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
+import useEmblaCarousel from "embla-carousel-react";
+import { useCallback } from "react";
 
 const testimonials = [
   {
@@ -48,6 +50,15 @@ const testimonials = [
 ];
 
 const Testimonials = () => {
+  const [emblaRef, emblaApi] = useEmblaCarousel({
+    align: "start",
+    slidesToScroll: 3,
+    loop: true,
+  });
+
+  const scrollPrev = useCallback(() => emblaApi?.scrollPrev(), [emblaApi]);
+  const scrollNext = useCallback(() => emblaApi?.scrollNext(), [emblaApi]);
+
   return (
     <section className="py-24 px-4">
       <div className="container max-w-6xl mx-auto">
@@ -64,34 +75,55 @@ const Testimonials = () => {
           </h2>
         </motion.div>
 
-        <div className="grid md:grid-cols-3 gap-8">
-          {testimonials.map((t, index) => (
-            <motion.div
-              key={t.name}
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: index * 0.1 }}
-              className="glass-card p-8 space-y-4"
+        <div className="relative">
+          <div className="overflow-hidden" ref={emblaRef}>
+            <div className="flex gap-8">
+              {testimonials.map((t, index) => (
+                <motion.div
+                  key={t.name}
+                  initial={{ opacity: 0, y: 30 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ delay: index * 0.1 }}
+                  className="glass-card p-8 space-y-4 min-w-0 flex-[0_0_calc(33.333%-1.34rem)] max-md:flex-[0_0_100%]"
+                >
+                  <div className="flex gap-1">
+                    {Array.from({ length: t.rating }).map((_, i) => (
+                      <Star key={i} className="w-4 h-4 fill-primary text-primary" />
+                    ))}
+                  </div>
+                  <p className="text-foreground/90 text-sm leading-relaxed">"{t.text}"</p>
+                  <div className="pt-2 border-t border-border flex items-center gap-3">
+                    <Avatar className="h-9 w-9">
+                      <AvatarImage src={t.avatar} alt={t.name} />
+                      <AvatarFallback className="text-xs bg-primary/20 text-primary">{t.name.split(" ").map(n => n[0]).join("")}</AvatarFallback>
+                    </Avatar>
+                    <div>
+                      <p className="font-semibold text-sm">{t.name}</p>
+                      <p className="text-xs text-muted-foreground">{t.role}</p>
+                    </div>
+                  </div>
+                </motion.div>
+              ))}
+            </div>
+          </div>
+
+          <div className="flex justify-center gap-4 mt-8">
+            <button
+              onClick={scrollPrev}
+              className="glass-card p-3 rounded-full hover:bg-primary/10 transition-colors"
+              aria-label="Previous testimonials"
             >
-              <div className="flex gap-1">
-                {Array.from({ length: t.rating }).map((_, i) => (
-                  <Star key={i} className="w-4 h-4 fill-primary text-primary" />
-                ))}
-              </div>
-              <p className="text-foreground/90 text-sm leading-relaxed">"{t.text}"</p>
-              <div className="pt-2 border-t border-border flex items-center gap-3">
-                <Avatar className="h-9 w-9">
-                  <AvatarImage src={t.avatar} alt={t.name} />
-                  <AvatarFallback className="text-xs bg-primary/20 text-primary">{t.name.split(" ").map(n => n[0]).join("")}</AvatarFallback>
-                </Avatar>
-                <div>
-                  <p className="font-semibold text-sm">{t.name}</p>
-                  <p className="text-xs text-muted-foreground">{t.role}</p>
-                </div>
-              </div>
-            </motion.div>
-          ))}
+              <ChevronLeft className="w-5 h-5 text-primary" />
+            </button>
+            <button
+              onClick={scrollNext}
+              className="glass-card p-3 rounded-full hover:bg-primary/10 transition-colors"
+              aria-label="Next testimonials"
+            >
+              <ChevronRight className="w-5 h-5 text-primary" />
+            </button>
+          </div>
         </div>
       </div>
     </section>
