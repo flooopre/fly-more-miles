@@ -35,8 +35,8 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "miles-topup-vs-buying-miles",
-    title: "Miles Top-Up vs. Buying Miles Directly: What's the Difference?",
-    excerpt: "Understanding the key differences between topping up your miles through a broker and purchasing directly from the airline.",
+    title: "Miles Top-Up vs. Getting Miles Directly: What's the Difference?",
+    excerpt: "Understanding the key differences between topping up your miles through a service and getting them directly from the airline.",
     content: `When you need extra miles for a redemption, you generally have two options: buy them directly from the airline, or use a miles top-up service. Here's how they compare.\n\n## Buying Miles from Airlines\n\nBoth British Airways and Air France/KLM allow you to purchase miles directly. However, the cost per mile is often significantly higher than market rates. Airlines typically charge 2–3 cents per mile, making large purchases expensive.\n\n## Using a Miles Top-Up Service\n\nServices like MilesTopUp offer miles at competitive rates, often 30–50% cheaper than buying directly. The process is simple: you tell us how many miles you need, we provide a quote, and the miles are added to your account.\n\n## Key Differences\n\n**Price:** Top-up services consistently offer better rates than airlines.\n\n**Speed:** Both options are relatively quick, but top-up services often deliver within 24–72 hours.\n\n**Flexibility:** Airlines may have minimum purchase requirements. Top-up services are more flexible with quantities.\n\n**Legitimacy:** Reputable top-up services operate within the terms of loyalty programs. Always choose a trusted provider.\n\n## The Bottom Line\n\nIf you're looking for the best value, a miles top-up service is almost always the smarter choice. Check MilesTopUp for a free quote today.`,
     author: "MilesTopUp Team",
     date: "2026-01-28",

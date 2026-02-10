@@ -50,8 +50,8 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg text-muted-foreground max-w-lg leading-relaxed">
-            Buy Avios or Flying Blue miles at up to 50% less than airline prices.
-            Delivered to your account within 48 hours — worldwide.
+            Get Avios or Flying Blue miles delivered to your account within 48 hours.
+            Better rates than the airlines — worldwide service.
           </p>
 
           <div className="flex items-center gap-6 pt-4 text-sm text-muted-foreground">
@@ -65,7 +65,7 @@ const HeroSection = () => {
             </span>
             <span className="flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-primary" />
-              From 1.34¢/mile
+              Worldwide Service
             </span>
           </div>
         </motion.div>

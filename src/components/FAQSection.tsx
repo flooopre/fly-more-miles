@@ -16,8 +16,8 @@ const faqs = [
     a: "Yes. We use the official points transfer features built into credit card reward programs (like Amex Membership Rewards or Chase Ultimate Rewards) to convert points into airline miles. Your frequent flyer account stays in your name and is never shared or accessed by us — we only need your membership number to initiate the transfer.",
   },
   {
-    q: "How much does it cost per mile?",
-    a: "Pricing depends on the quantity. For smaller orders, rates start around 1.6¢ per mile. For larger orders (100k+), rates can go as low as 1.3¢ per mile. Request a quote for your exact price — it's free and there's no obligation.",
+    q: "How much does it cost?",
+    a: "Pricing depends on the quantity and programme. The more miles you need, the better the rate. Request a free quote — there's no obligation, and we'll send you a personalised price within minutes.",
   },
   {
     q: "What payment methods do you accept?",
