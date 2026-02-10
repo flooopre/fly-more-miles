@@ -12,9 +12,8 @@ const Footer = () => {
           © {new Date().getFullYear()} MilesTopUp. All rights reserved.
         </p>
         <div className="flex gap-6 text-sm text-muted-foreground">
-          <a href="#" className="hover:text-foreground transition-colors">Privacy</a>
-          <a href="#" className="hover:text-foreground transition-colors">Terms</a>
-          <a href="#" className="hover:text-foreground transition-colors">Contact</a>
+          <a href="mailto:hello@milestopup.com" className="hover:text-foreground transition-colors">Contact</a>
+          <a href="/blog" className="hover:text-foreground transition-colors">Blog</a>
         </div>
       </div>
     </footer>

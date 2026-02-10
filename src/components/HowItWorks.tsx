@@ -38,7 +38,7 @@ const HowItWorks = () => {
             <span className="gold-text">More Miles</span>
           </h2>
           <p className="text-muted-foreground max-w-lg mx-auto">
-            From request to delivery in under 48 hours. No complicated process, no middlemen.
+            From request to miles in your account — fast, secure, and hassle-free.
           </p>
         </motion.div>
 

@@ -16,12 +16,14 @@ const Navbar = () => {
           <a href="/blog" className="hover:text-foreground transition-colors">Blog</a>
         </div>
 
-        <Button
-          size="sm"
-          className="gold-gradient text-primary-foreground font-semibold rounded-lg glow-gold hover:opacity-90 transition-opacity"
-        >
-          Get a Quote
-        </Button>
+        <a href="/#quote-form">
+          <Button
+            size="sm"
+            className="gold-gradient text-primary-foreground font-semibold rounded-lg glow-gold hover:opacity-90 transition-opacity"
+          >
+            Get a Quote
+          </Button>
+        </a>
       </div>
     </nav>
   );

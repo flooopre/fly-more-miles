@@ -41,7 +41,7 @@ const HeroSection = () => {
         >
           <div className="inline-flex items-center gap-2 px-4 py-1.5 glass-card text-sm text-muted-foreground">
             <Plane className="w-4 h-4 text-primary" />
-            Avios & Flying Blue Top-Up
+            Trusted Avios & Flying Blue Top-Up Service
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold font-display leading-tight">
@@ -50,8 +50,8 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg text-muted-foreground max-w-lg leading-relaxed">
-            Get Avios or Flying Blue miles delivered to your account in 48 hours.
-            No drama, no hassle—just the miles you need for that award flight.
+            Buy Avios or Flying Blue miles at up to 50% less than airline prices.
+            Delivered to your account within 48 hours — worldwide.
           </p>
 
           <div className="flex items-center gap-6 pt-4 text-sm text-muted-foreground">
@@ -63,6 +63,10 @@ const HeroSection = () => {
               <span className="w-2 h-2 rounded-full bg-primary" />
               Secure Payment
             </span>
+            <span className="flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-primary" />
+              From 1.34¢/mile
+            </span>
           </div>
         </motion.div>
 
@@ -73,7 +77,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="flex justify-center"
         >
-          <form onSubmit={handleSubmit} className="glass-card p-8 w-full max-w-[400px] space-y-5 glow-gold relative">
+          <form id="quote-form" onSubmit={handleSubmit} className="glass-card p-8 w-full max-w-[400px] space-y-5 glow-gold relative">
             <div className="absolute -top-3 -right-3 w-16 h-16 bg-primary/10 rounded-full blur-2xl" />
 
             <div className="space-y-1">
