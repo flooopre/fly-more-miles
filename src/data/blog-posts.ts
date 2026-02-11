@@ -21,7 +21,7 @@ Here's every method available in 2026, ranked from cheapest to most expensive, w
 
 ## 1. Avios Balance Boost — From 0.92p per Avios
 
-![British Airways — the home of Avios points](/images/blog/avios-balance-boost.jpg)
+![British Airways — the home of Avios points](https://images.unsplash.com/photo-1584084807193-bed442df7a75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 This is the cheapest standard option for most people. Balance Boost lets you purchase a lump sum of Avios equal to 100%, 200%, or 300% of the Avios you've earned in the last 30 days.
 
@@ -43,7 +43,7 @@ Annual payment gets you roughly two months free compared to monthly billing, bri
 
 ## 3. Credit Card Sign-Up Bonuses — Effective Cost Under 1p
 
-![Credit card rewards are the fastest way to earn Avios](/images/blog/avios-credit-cards.jpg)
+![Credit card rewards are the fastest way to earn Avios](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 The BA American Express cards offer 25,000+ Avios as welcome bonuses. The Amex Preferred Rewards Gold earns Membership Rewards points that transfer 1:1 to Avios, with a 20,000-point sign-up bonus.
 
@@ -65,7 +65,7 @@ During the best promotions (like the 50% discount deals), prices drop to around 
 
 ## 5. Qatar Airways Privilege Club — From ~1.75p per Avios
 
-![Qatar Airways Q Suites — bookable with Avios](/images/blog/avios-qatar.jpg)
+![Qatar Airways Q Suites — bookable with Avios](https://images.unsplash.com/photo-1684929167916-a844fcf314d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 Qatar Airways also uses Avios and runs periodic purchase promotions. Standard pricing starts around 1.75p, but bonus offers can bring this down significantly.
 
@@ -91,7 +91,7 @@ The advantage is consistency: you get competitive rates without waiting for airl
 
 ## Which Method Should You Choose?
 
-![Choosing the right method depends on your timeline](/images/blog/avios-choose-method.jpg)
+![Choosing the right method depends on your timeline](https://images.unsplash.com/photo-1699810917663-2341cd65afee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 It depends on your timeline and situation:
 
@@ -118,7 +118,7 @@ But here's the thing: most people don't have enough miles when they find the per
 
 ## What Makes Flying Blue Special
 
-![KLM — one of the two airlines behind Flying Blue](/images/blog/fb-klm-airplane.jpg)
+![KLM — one of the two airlines behind Flying Blue](https://images.unsplash.com/photo-1742429577899-369b2c19230d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 Before we get into earning methods, here's why Flying Blue is worth focusing on:
 
@@ -132,7 +132,7 @@ Before we get into earning methods, here's why Flying Blue is worth focusing on:
 
 ## Method 1: Transfer from Credit Card Programmes
 
-![Transfer credit card points to Flying Blue for instant miles](/images/blog/fb-credit-cards.jpg)
+![Transfer credit card points to Flying Blue for instant miles](https://images.unsplash.com/photo-1646992914433-de93d0d06c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 The fastest way to build a large Flying Blue balance is through credit card points transfers. All major flexible points programmes transfer to Flying Blue at favourable ratios.
 
@@ -164,7 +164,7 @@ A €500 round trip Paris–New York in economy earns 2,000 miles at the base le
 
 ## Method 3: Monthly Promo Rewards
 
-![Air France business class — bookable at a discount during Promo Rewards](/images/blog/fb-air-france.jpg)
+![Air France business class — bookable at a discount during Promo Rewards](https://images.unsplash.com/photo-1719405524195-c3a331daa84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 This is Flying Blue's killer feature. Around the first week of every month, Air France and KLM publish discounted award flights for that month.
 
@@ -216,7 +216,7 @@ Setting it up is free through the Flying Blue website. Each member still earns i
 
 ## Best Redemption Sweet Spots
 
-![Flying Blue sweet spots include Paris and Amsterdam routes](/images/blog/fb-sweet-spots.jpg)
+![Flying Blue sweet spots include Paris and Amsterdam routes](https://images.unsplash.com/photo-1679231926690-cb1e8abfcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 Knowing where your miles go furthest helps you decide how many to accumulate:
 
