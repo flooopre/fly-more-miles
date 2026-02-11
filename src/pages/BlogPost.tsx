@@ -14,6 +14,17 @@ const BlogPost = () => {
 
   const renderContent = (content: string) => {
     return content.split("\n\n").map((block, i) => {
+      const imgMatch = block.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+      if (imgMatch) {
+        return (
+          <figure key={i} className="my-8">
+            <img src={imgMatch[2]} alt={imgMatch[1]} className="w-full rounded-xl" loading="lazy" />
+            {imgMatch[1] && (
+              <figcaption className="text-sm text-muted-foreground text-center mt-2">{imgMatch[1]}</figcaption>
+            )}
+          </figure>
+        );
+      }
       if (block.startsWith("## ")) {
         return (
           <h2 key={i} className="font-display text-xl font-semibold mt-8 mb-3 text-foreground">

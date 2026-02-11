@@ -21,6 +21,8 @@ Here's every method available in 2026, ranked from cheapest to most expensive, w
 
 ## 1. Avios Balance Boost — From 0.92p per Avios
 
+![British Airways — the home of Avios points](/images/blog/avios-balance-boost.jpg)
+
 This is the cheapest standard option for most people. Balance Boost lets you purchase a lump sum of Avios equal to 100%, 200%, or 300% of the Avios you've earned in the last 30 days.
 
 If you earned 10,000 Avios from a flight or credit card spend last month, you can boost your balance by up to 30,000 additional Avios at 0.92p each. That's £276 for 30,000 Avios — hard to beat.
@@ -41,6 +43,8 @@ Annual payment gets you roughly two months free compared to monthly billing, bri
 
 ## 3. Credit Card Sign-Up Bonuses — Effective Cost Under 1p
 
+![Credit card rewards are the fastest way to earn Avios](/images/blog/avios-credit-cards.jpg)
+
 The BA American Express cards offer 25,000+ Avios as welcome bonuses. The Amex Preferred Rewards Gold earns Membership Rewards points that transfer 1:1 to Avios, with a 20,000-point sign-up bonus.
 
 If you factor in the annual fee against the bonus, the effective cost per Avios often works out under 1p — sometimes as low as 0.5p if you'd be spending the money anyway.
@@ -60,6 +64,8 @@ During the best promotions (like the 50% discount deals), prices drop to around 
 **Best for:** Opportunistic buyers who check regularly and jump on deals.
 
 ## 5. Qatar Airways Privilege Club — From ~1.75p per Avios
+
+![Qatar Airways Q Suites — bookable with Avios](/images/blog/avios-qatar.jpg)
 
 Qatar Airways also uses Avios and runs periodic purchase promotions. Standard pricing starts around 1.75p, but bonus offers can bring this down significantly.
 
@@ -84,6 +90,8 @@ The advantage is consistency: you get competitive rates without waiting for airl
 **Best for:** When you need a specific amount of Avios quickly, at a predictable price, without jumping through hoops.
 
 ## Which Method Should You Choose?
+
+![Choosing the right method depends on your timeline](/images/blog/avios-choose-method.jpg)
 
 It depends on your timeline and situation:
 
@@ -110,6 +118,8 @@ But here's the thing: most people don't have enough miles when they find the per
 
 ## What Makes Flying Blue Special
 
+![KLM — one of the two airlines behind Flying Blue](/images/blog/fb-klm-airplane.jpg)
+
 Before we get into earning methods, here's why Flying Blue is worth focusing on:
 
 **Lowest intra-Europe awards:** 4,000–8,000 miles for a one-way economy flight within Europe. Try finding that in any other programme.
@@ -121,6 +131,8 @@ Before we get into earning methods, here's why Flying Blue is worth focusing on:
 **No expiration with activity:** As long as you earn or spend at least one mile every 24 months, your balance stays alive.
 
 ## Method 1: Transfer from Credit Card Programmes
+
+![Transfer credit card points to Flying Blue for instant miles](/images/blog/fb-credit-cards.jpg)
 
 The fastest way to build a large Flying Blue balance is through credit card points transfers. All major flexible points programmes transfer to Flying Blue at favourable ratios.
 
@@ -151,6 +163,8 @@ Base earning rates per euro spent on the ticket:
 A €500 round trip Paris–New York in economy earns 2,000 miles at the base level. Not huge, but it adds up — especially if you're a regular flyer on these routes.
 
 ## Method 3: Monthly Promo Rewards
+
+![Air France business class — bookable at a discount during Promo Rewards](/images/blog/fb-air-france.jpg)
 
 This is Flying Blue's killer feature. Around the first week of every month, Air France and KLM publish discounted award flights for that month.
 
@@ -201,6 +215,8 @@ Flying Blue allows up to 8 accounts to pool miles together. This is a game-chang
 Setting it up is free through the Flying Blue website. Each member still earns into their own account, but you can access the combined balance for bookings.
 
 ## Best Redemption Sweet Spots
+
+![Flying Blue sweet spots include Paris and Amsterdam routes](/images/blog/fb-sweet-spots.jpg)
 
 Knowing where your miles go furthest helps you decide how many to accumulate:
 
