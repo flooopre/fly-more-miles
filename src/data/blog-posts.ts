@@ -21,7 +21,7 @@ The good news is that there are several ways to get Avios at a reasonable price,
 
 ## 1. Avios Balance Boost — From 0.92p per Avios
 
-![British Airways — the home of Avios points](https://images.unsplash.com/photo-1584084807193-bed442df7a75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![British Airways A350-1000 — the home of Avios points](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/British_Airways_A350-1000_descending_into_Heathrow_April_2025.jpg/1280px-British_Airways_A350-1000_descending_into_Heathrow_April_2025.jpg)
 
 Balance Boost is the cheapest standard way to get Avios for most people, and it's a feature that doesn't get nearly enough attention. The way it works is straightforward: BA allows you to purchase additional Avios equal to 100%, 200%, or 300% of the Avios you've earned in the previous 30 days. So if you earned 10,000 Avios from a flight or credit card spend last month, you can boost your balance by up to 30,000 additional Avios at just 0.92p each. That works out to £276 for 30,000 Avios — genuinely hard to beat anywhere.
 
@@ -49,7 +49,7 @@ During the best promotions, particularly the 50% discount deals that come around
 
 ## 5. Qatar Airways Privilege Club — From ~1.75p per Avios
 
-![Qatar Airways Q Suites — bookable with Avios](https://images.unsplash.com/photo-1684929167916-a844fcf314d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Qatar Airways QSuites — bookable with Avios](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Qatar_Airways_Qsuite_Business_Class_ITB_2017_%2806%29.JPG/1280px-Qatar_Airways_Qsuite_Business_Class_ITB_2017_%2806%29.JPG)
 
 Qatar Airways also uses Avios as their loyalty currency and periodically runs purchase promotions through the Privilege Club. Standard pricing starts around 1.75p per Avios, which isn't cheap, but bonus offers can bring this down to more reasonable territory. Prices are typically quoted in USD, so exchange rates matter for UK-based buyers and can work either for or against you depending on when you purchase.
 
@@ -69,7 +69,7 @@ The main advantage here is consistency and convenience. You get competitive rate
 
 ## Which Method Is Right for You?
 
-![Choosing the right method depends on your timeline](https://images.unsplash.com/photo-1699810917663-2341cd65afee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Cathay Pacific A350 — another Oneworld airline where you can spend Avios](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cathay_pacific_A350-900XWB_2024-7-16.jpg/1280px-Cathay_pacific_A350-900XWB_2024-7-16.jpg)
 
 The right approach depends entirely on your timeline and situation. If you have several months before you need to book, the unbeatable combination is credit card bonuses plus Balance Boost — earn Avios through your everyday spending, then use Balance Boost at 0.92p to top up your balance to wherever it needs to be. No other method comes close to this on a cost-per-point basis.
 
@@ -84,7 +84,7 @@ One final piece of advice: never get Avios speculatively. Only top up when you h
     date: "2026-02-10",
     readTime: "10 min read",
     category: "Avios",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/British_Airways_BA_First_Class_Seat_Boeing_747.jpg/800px-British_Airways_BA_First_Class_Seat_Boeing_747.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/British_Airways_Club_Suite_seat.jpg/800px-British_Airways_Club_Suite_seat.jpg",
   },
   {
     slug: "how-to-get-flying-blue-miles-guide",
@@ -96,7 +96,7 @@ The challenge, of course, is having enough miles in your account when you spot t
 
 ## What Makes Flying Blue Worth Your Attention
 
-![KLM — one of the two airlines behind Flying Blue](https://images.unsplash.com/photo-1742429577899-369b2c19230d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![KLM Boeing 787 Dreamliner at Amsterdam Schiphol](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KLM_Boeing_787_Dreamliner_Amsterdam_Schiphol_2024.jpg/1280px-KLM_Boeing_787_Dreamliner_Amsterdam_Schiphol_2024.jpg)
 
 Before diving into the earning strategies, it's worth understanding what makes Flying Blue genuinely stand apart from the competition. The headline feature is the pricing for intra-European flights. A one-way economy award within Europe costs between 4,000 and 8,000 Flying Blue miles — try finding anything comparable in British Airways Executive Club (where the equivalent starts at 9,500 Avios) or virtually any other European programme.
 
@@ -106,7 +106,7 @@ Your Flying Blue miles also give you access to the entire SkyTeam alliance, whic
 
 ## Earning Through Credit Card Transfers
 
-![Transfer credit card points to Flying Blue for instant miles](https://images.unsplash.com/photo-1646992914433-de93d0d06c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Air France A350-900 — transfer credit card points to fly in style](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Air_France_A350-900_F-HTYQ_at_Boston.jpg/1280px-Air_France_A350-900_F-HTYQ_at_Boston.jpg)
 
 The fastest and most efficient way to build a substantial Flying Blue balance is through credit card points transfers. All of the major flexible points programmes — American Express Membership Rewards, Chase Ultimate Rewards, Citi ThankYou Rewards, Capital One Miles, and Bilt Rewards — transfer to Flying Blue at a 1:1 ratio. Marriott Bonvoy points also transfer, though at a 3:1 ratio (with a 5,000-mile bonus when you transfer 60,000 Bonvoy points or more).
 
@@ -122,7 +122,7 @@ To put that in practical terms, a €500 round-trip flight from Paris to New Yor
 
 ## The Monthly Promo Rewards
 
-![Air France business class — bookable at a discount during Promo Rewards](https://images.unsplash.com/photo-1719405524195-c3a331daa84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Air France Business Class on the 777-300ER — bookable at a discount during Promo Rewards](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Air_France_aviation_Business_class%28B777-300ER%29.JPG/1280px-Air_France_aviation_Business_class%28B777-300ER%29.JPG)
 
 This deserves its own section because it's genuinely Flying Blue's most distinctive and valuable feature. Around the first week of each month, Air France and KLM publish a list of routes where award flights are available at a significant discount — typically 25% to 50% off the standard mileage price. The discounts apply across all cabins, and they must be booked by the end of the month.
 
@@ -150,7 +150,7 @@ Setting up family pooling is free through the Flying Blue website. Each member c
 
 ## Where to Spend Flying Blue Miles for Maximum Value
 
-![Flying Blue sweet spots include Paris and Amsterdam routes](https://images.unsplash.com/photo-1679231926690-cb1e8abfcefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Paris — one of Flying Blue's major hubs](https://upload.wikimedia.org/wikipedia/commons/b/b8/Aerial_photograph_of_the_Eiffel_Tower_and_Arc_de_Triomphe.jpg)
 
 Understanding where your miles deliver the best value helps you set realistic earning targets and make smarter decisions about when to redeem versus when to save.
 
@@ -175,7 +175,7 @@ The goal isn't to hoard miles indefinitely. It's to have enough in the bank when
     date: "2026-02-10",
     readTime: "12 min read",
     category: "Flying Blue",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Air_France_aviation_Business_class%28B777-300ER%29.JPG/800px-Air_France_aviation_Business_class%28B777-300ER%29.JPG",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KLM_Boeing_787_Dreamliner_Amsterdam_Schiphol_2024.jpg/800px-KLM_Boeing_787_Dreamliner_Amsterdam_Schiphol_2024.jpg",
   },
   {
     slug: "what-are-avios-beginners-guide",
@@ -187,7 +187,7 @@ Whatever brought you here, this guide is going to walk you through everything �
 
 ## The Basics: What Avios Actually Are
 
-![British Airways — the biggest airline in the Avios family](https://images.unsplash.com/photo-1589891459986-e4067c86c351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![British Airways A350-1000 — the biggest airline in the Avios family](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/British_Airways_A350-1000_descending_into_Heathrow_April_2025.jpg/1280px-British_Airways_A350-1000_descending_into_Heathrow_April_2025.jpg)
 
 At its core, Avios is a loyalty currency — think of it like air miles, except that it's shared across a whole group of airlines rather than being locked to just one. The name "Avios" has been around since 2011, when British Airways merged its old BA Miles programme with Iberia's. The idea was to create a single, flexible currency that could be earned and spent across multiple carriers.
 
@@ -209,7 +209,7 @@ The takeaway here is straightforward: Avios deliver the best value when you use 
 
 There are plenty of ways to build an Avios balance, and most people end up using a combination of methods. The key is understanding which approaches give you the most points for the least effort.
 
-![Every flight on BA or Oneworld partners earns Avios](https://images.unsplash.com/photo-1541938341575-d7fd71601ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Cathay Pacific A350 — every Oneworld partner flight earns Avios](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cathay_pacific_A350-900XWB_2024-7-16.jpg/1280px-Cathay_pacific_A350-900XWB_2024-7-16.jpg)
 
 **Credit cards** are by far the fastest route to a large Avios balance for most people. In the UK, the British Airways American Express earns Avios directly on every purchase, typically at a rate of 1 to 1.5 Avios per pound spent. The sign-up bonuses alone can be worth 25,000 Avios or more. The Amex Preferred Rewards Gold is another popular option — it earns Membership Rewards points that transfer to Avios at a 1:1 ratio, and it comes with a generous sign-up bonus. If you put £2,000 a month of regular spending on one of these cards, you'll accumulate roughly 24,000 Avios per year before any bonuses. That's enough for several short-haul flights or a meaningful contribution towards a long-haul redemption.
 
@@ -223,7 +223,7 @@ There are plenty of ways to build an Avios balance, and most people end up using
 
 This is where it gets genuinely exciting. The whole point of accumulating Avios is to use them for flights you wouldn't otherwise pay cash for, and there are some truly outstanding redemptions available if you know where to look.
 
-![Business class lie-flat seats — where Avios deliver exceptional value](https://images.unsplash.com/photo-1700811476954-1a2faa44a4a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![British Airways Club Suite — where Avios deliver exceptional value](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/British_Airways_Club_Suite_seat.jpg/1280px-British_Airways_Club_Suite_seat.jpg)
 
 The primary use case is booking reward flights. Through ba.com, you can search and book flights on British Airways and all of their Oneworld partners. Pricing is based on route distance and cabin class. A one-way economy flight within Europe starts at around 9,500 Avios during off-peak periods. London to New York in economy runs about 26,000 Avios one-way, while business class on the same route is 60,000 Avios. For the ultimate splurge, first class from London to destinations like Cape Town or Singapore costs around 102,000 Avios.
 
@@ -251,7 +251,7 @@ My advice is to set a calendar reminder for every 30 months. If you haven't had 
 
 ## How Avios Stack Up Against the Competition
 
-![Planning your loyalty strategy — Avios vs other programmes](https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Qatar Airways A350 — one of many airlines where you can use Avios](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Qatar_Airways_A7-ALH_Airbus_A350-941.jpg/1280px-Qatar_Airways_A7-ALH_Airbus_A350-941.jpg)
 
 No loyalty currency exists in a vacuum, so it's worth understanding how Avios compare to the alternatives. If you're based in Europe, the two most relevant competitors are Flying Blue (Air France/KLM) and Virgin Atlantic Points.
 
@@ -272,7 +272,7 @@ Most importantly, set a goal. Decide where you want to fly, figure out how many 
     date: "2026-02-11",
     readTime: "14 min read",
     category: "Avios",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cathay_Pacific_77W_business_class_seat.JPG/800px-Cathay_Pacific_77W_business_class_seat.JPG",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Qatar_Airways_A7-ALH_Airbus_A350-941.jpg/800px-Qatar_Airways_A7-ALH_Airbus_A350-941.jpg",
   },
   {
     slug: "avios-vs-flying-blue-which-miles-should-you-get",
@@ -282,7 +282,7 @@ Most importantly, set a goal. Decide where you want to fly, figure out how many 
 
 I've spent a lot of time with both programmes, and I can tell you upfront that the answer for most people isn't actually "one or the other." It's both. But that doesn't mean they're interchangeable, and understanding where each one excels will save you from making expensive mistakes with your points. So let's break this down properly.
 
-![The two biggest European loyalty programmes compared](https://images.unsplash.com/photo-1662155514120-155e4d127132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![British Airways Club Suites on the 787-10 — the flagship Avios product](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/British_Airways_Club_Suites_seat_aboard_Boeing_787-10_G-ZBLE%2C_31_January_2024.jpg/1280px-British_Airways_Club_Suites_seat_aboard_Boeing_787-10_G-ZBLE%2C_31_January_2024.jpg)
 
 ## The Programmes at a Glance
 
@@ -344,7 +344,7 @@ Avios expire after 36 months of inactivity, while Flying Blue miles expire after
 
 Flying Blue's 24-month policy means you need to be slightly more intentional about keeping your balance active. The easiest way is to earn a few miles through a shopping portal transaction every year or two — it costs nothing and keeps your entire balance alive.
 
-![Planning your miles strategy for maximum flexibility](https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![KLM 787 Dreamliner over Greenland — Flying Blue takes you everywhere](https://upload.wikimedia.org/wikipedia/commons/7/7b/KLM_Boeing_787_Dreamliner_Greenland_2024.jpg)
 
 ## So Which Should You Choose?
 
@@ -367,6 +367,6 @@ The travellers who get the most value from the miles game aren't the ones who pi
     date: "2026-02-11",
     readTime: "13 min read",
     category: "Comparison",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qatar_Airways_Qsuite_Business_Class_ITB_2017_%2807%29.JPG/800px-Qatar_Airways_Qsuite_Business_Class_ITB_2017_%2807%29.JPG",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Air_France_A350-900_F-HTYQ_at_Boston.jpg/800px-Air_France_A350-900_F-HTYQ_at_Boston.jpg",
   },
 ];
