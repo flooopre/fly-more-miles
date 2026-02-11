@@ -84,7 +84,7 @@ One final piece of advice: never get Avios speculatively. Only top up when you h
     date: "2026-02-10",
     readTime: "10 min read",
     category: "Avios",
-    image: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=800&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
   },
   {
     slug: "how-to-get-flying-blue-miles-guide",
@@ -175,7 +175,7 @@ The goal isn't to hoard miles indefinitely. It's to have enough in the bank when
     date: "2026-02-10",
     readTime: "12 min read",
     category: "Flying Blue",
-    image: "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=800&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1627750673161-02af15c7c722?w=800&h=400&fit=crop",
   },
   {
     slug: "what-are-avios-beginners-guide",
@@ -272,7 +272,7 @@ Most importantly, set a goal. Decide where you want to fly, figure out how many 
     date: "2026-02-11",
     readTime: "14 min read",
     category: "Avios",
-    image: "https://images.unsplash.com/photo-1589891459986-e4067c86c351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "https://images.unsplash.com/photo-1606933988322-a3cb8968e5ad?w=800&h=400&fit=crop",
   },
   {
     slug: "avios-vs-flying-blue-which-miles-should-you-get",
@@ -296,7 +296,7 @@ Both programmes earn miles through flights, credit card transfers (Amex, Chase, 
 
 This is the single biggest area where the two programmes diverge, and it's not even close. Flying Blue prices one-way economy flights within Europe starting at just 4,000 miles. Avios, by contrast, starts at 9,500 for the equivalent flight during off-peak periods and can be higher during peak times. That's more than double the cost for essentially the same type of route.
 
-![European city breaks are where Flying Blue delivers unbeatable value](https://images.unsplash.com/photo-1563463149242-5f4a8b25e18a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![European city breaks are where Flying Blue delivers unbeatable value](https://images.unsplash.com/photo-1758960783436-2d64211d0b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 But the pricing advantage is only part of the story. Flying Blue also runs Monthly Promo Rewards — a feature that genuinely has no equivalent in the Avios world. Around the first week of every month, Air France and KLM publish a selection of routes where award flights are discounted by 25–50%. These promos cover economy, premium economy, and business class, and they can bring already-cheap European flights down to absurdly low mileage costs. A 4,000-mile flight discounted by 50% becomes 2,000 miles. That's barely the cost of a supermarket shop in credit card points.
 
@@ -312,7 +312,7 @@ Qatar Airways Q Suites are widely regarded as the best business class product fl
 
 Flying Blue can't match this breadth of premium cabin access. SkyTeam has some excellent products — Korean Air's first class is spectacular, and Delta One is solid — but the overall selection of world-class business and first class products is narrower than what Oneworld offers. Air France and KLM's own business class is perfectly good but doesn't quite reach the heights of Qatar's Q Suites or Cathay's latest cabins.
 
-![Long-haul business class — where Avios redemptions deliver the most value](https://images.unsplash.com/photo-1700811476954-1a2faa44a5a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Long-haul business class — where Avios redemptions deliver the most value](https://images.unsplash.com/photo-1763531365253-4ef7ecce0041?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 There's also the surcharge question. British Airways is notorious for adding hefty fuel surcharges to award tickets on their own flights — sometimes £400 or more on a long-haul return. But here's the thing that experienced Avios collectors know: you can avoid most of these surcharges by booking through Iberia Plus or Aer Lingus AerClub instead of BA Executive Club. The same Oneworld partner flight, same Avios cost, dramatically lower cash outlay. Flying Blue's surcharges on Air France and KLM metal are more moderate and predictable, which is simpler but doesn't offer the same optimisation opportunities.
 
@@ -367,6 +367,6 @@ The travellers who get the most value from the miles game aren't the ones who pi
     date: "2026-02-11",
     readTime: "13 min read",
     category: "Comparison",
-    image: "https://images.unsplash.com/photo-1662155514120-155e4d127132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "https://images.unsplash.com/photo-1642009071428-119813340e22?w=800&h=400&fit=crop",
   },
 ];
