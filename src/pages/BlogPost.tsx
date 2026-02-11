@@ -1,4 +1,5 @@
 import { useParams, Link, Navigate } from "react-router-dom";
+import { useEffect } from "react";
 import { motion } from "framer-motion";
 import { ArrowLeft, Calendar, Clock, User } from "lucide-react";
 import Navbar from "@/components/Navbar";
@@ -10,7 +11,54 @@ const BlogPost = () => {
   const { slug } = useParams<{ slug: string }>();
   const post = blogPosts.find((p) => p.slug === slug);
 
+  useEffect(() => {
+    if (!post) return;
+    const schema = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: post.title,
+      description: post.excerpt,
+      image: post.image,
+      author: { "@type": "Organization", name: post.author },
+      publisher: { "@type": "Organization", name: "MilesTopUp", url: "https://milestopup.com" },
+      datePublished: post.date,
+      dateModified: post.date,
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": `https://milestopup.com/blog/${post.slug}`,
+      },
+    };
+    const script = document.createElement("script");
+    script.type = "application/ld+json";
+    script.textContent = JSON.stringify(schema);
+    script.id = "article-schema";
+    document.head.appendChild(script);
+    return () => {
+      const el = document.getElementById("article-schema");
+      if (el) el.remove();
+    };
+  }, [post]);
+
   if (!post) return <Navigate to="/blog" replace />;
+
+  const renderInline = (text: string) => {
+    // Handle both **bold** and [links](url)
+    const parts = text.split(/(\*\*.*?\*\*|\[[^\]]+\]\([^)]+\))/g);
+    return parts.map((part, j) => {
+      if (part.startsWith("**") && part.endsWith("**")) {
+        return <strong key={j} className="text-foreground">{part.replace(/\*\*/g, "")}</strong>;
+      }
+      const linkMatch = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+      if (linkMatch) {
+        const isInternal = linkMatch[2].startsWith("/");
+        if (isInternal) {
+          return <Link key={j} to={linkMatch[2]} className="text-primary hover:underline">{linkMatch[1]}</Link>;
+        }
+        return <a key={j} href={linkMatch[2]} className="text-primary hover:underline" target="_blank" rel="noopener noreferrer">{linkMatch[1]}</a>;
+      }
+      return <span key={j}>{part}</span>;
+    });
+  };
 
   const renderContent = (content: string) => {
     return content.split("\n\n").map((block, i) => {
@@ -39,23 +87,9 @@ const BlogPost = () => {
           </p>
         );
       }
-      if (block.includes("**")) {
-        const parts = block.split(/(\*\*.*?\*\*)/g);
-        return (
-          <p key={i} className="text-muted-foreground leading-relaxed mb-4">
-            {parts.map((part, j) =>
-              part.startsWith("**") && part.endsWith("**") ? (
-                <strong key={j} className="text-foreground">{part.replace(/\*\*/g, "")}</strong>
-              ) : (
-                <span key={j}>{part}</span>
-              )
-            )}
-          </p>
-        );
-      }
       return (
         <p key={i} className="text-muted-foreground leading-relaxed mb-4">
-          {block}
+          {renderInline(block)}
         </p>
       );
     });
