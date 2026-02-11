@@ -258,4 +258,192 @@ The goal isn't to hoard miles forever. It's to have enough when that perfect awa
     category: "Flying Blue",
     image: "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=800&h=400&fit=crop",
   },
+  {
+    slug: "what-are-avios-beginners-guide",
+    title: "What Are Avios? The Complete Beginner's Guide for 2026",
+    excerpt: "Avios are the loyalty currency used by British Airways, Iberia, Aer Lingus, Qatar Airways and more. Here's everything you need to know — what they're worth, how to earn them, and how to use them.",
+    content: `You've probably heard people talk about Avios — maybe a colleague mentioned flying business class "for free," or you noticed the word on your British Airways booking. But what actually are Avios, and why do so many travellers obsess over them?
+
+This guide explains everything from scratch. No jargon, no assumptions. By the end, you'll understand exactly what Avios are worth, how the system works, and whether collecting them makes sense for you.
+
+## What Are Avios, Exactly?
+
+![British Airways — the biggest airline in the Avios family](https://images.unsplash.com/photo-1589891459986-e4067c86c351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+
+Avios are a travel loyalty currency. Think of them like air miles, but shared across multiple airlines and programmes. One Avios point is the same whether you earn it with British Airways in London, Iberia in Madrid, or Qatar Airways in Doha.
+
+The name "Avios" replaced the old British Airways Miles in 2011 when BA merged its loyalty currency with Iberia's. Today, Avios is the common currency across the entire Avios Group.
+
+**Airlines that use Avios:**
+- **British Airways** Executive Club
+- **Iberia** Plus
+- **Aer Lingus** AerClub
+- **Vueling** Club
+- **Qatar Airways** Privilege Club
+- **Finnair** Plus (recently joined)
+
+This is important because it means you can earn Avios with one airline and spend them with another. Earned Avios flying Iberia from Madrid? You can use them to book a British Airways flight from London. Earned them with a UK credit card? You can spend them on a Qatar Airways Q Suite from Doha.
+
+## How Much Is One Avios Worth?
+
+This is the question everyone asks, and the honest answer is: it depends on how you use them.
+
+**The general rule:** One Avios is worth between 0.5p and 1.5p, depending on the redemption. Some premium bookings push the value even higher.
+
+**Here's what that looks like in practice:**
+
+A short-haul economy flight from London to Dublin might cost 13,000 Avios + £1 in taxes. If the cash fare is £80, you're getting about 0.6p per Avios — decent but not spectacular.
+
+A business class flight from London to New York might cost 60,000 Avios + £600 in taxes and surcharges. If the cash fare is £2,500, you're getting about 3.2p per Avios — exceptional value.
+
+**The lesson:** Avios are worth more when you use them for expensive flights, especially long-haul premium cabins. Using them for cheap short-haul flights gives you less value per point.
+
+## How Do You Earn Avios?
+
+There are dozens of ways to earn Avios. Here are the main ones, roughly ordered by how many points you can accumulate:
+
+**1. Credit Card Spending**
+
+This is how most people build large Avios balances. The British Airways American Express cards earn Avios directly on every purchase. The Amex Preferred Rewards Gold earns Membership Rewards points that transfer 1:1 to Avios.
+
+Typical earning rates: 1–1.5 Avios per £1 spent, plus sign-up bonuses of 25,000+ Avios.
+
+If you spend £2,000 a month on a BA Amex, that's roughly 24,000 Avios per year just from everyday spending — before any bonuses.
+
+**2. Flying**
+
+![Every flight earns Avios based on distance and cabin class](https://images.unsplash.com/photo-1541938341575-d7fd71601ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+
+Every flight on BA, Iberia, Aer Lingus, or any Oneworld partner airline earns Avios. The amount depends on the route distance, booking class, and your Executive Club status.
+
+A London to New York economy flight earns around 4,500 Avios. The same route in business class earns around 9,000 Avios. First class: up to 18,000 Avios.
+
+You also earn Avios on partner airlines like American Airlines, Cathay Pacific, Japan Airlines, and Qantas — as long as you credit the flight to your Executive Club account.
+
+**3. Shopping Portals and Partners**
+
+The BA Shopping portal gives you bonus Avios when you shop at hundreds of online retailers. Rates vary from 2 to 15 Avios per £1 spent, on top of your credit card earnings.
+
+Other earning partners include:
+- Hotels (Marriott Bonvoy, Hyatt)
+- Car rentals (Avis, Hertz)
+- Dining programmes
+- Nectar (Sainsbury's loyalty card transfers to Avios at 400 Nectar = 250 Avios)
+
+**4. Purchasing or Topping Up**
+
+Sometimes you're close to having enough Avios for a booking but need a few thousand more. You can purchase Avios directly from BA (expensive), use Balance Boost (cheaper), or use a top-up service like MilesTopUp for competitive rates with fast delivery.
+
+We covered every purchase method in detail in our guide: The Cheapest Way to Get Avios in 2026.
+
+## How Do You Spend Avios?
+
+This is where it gets exciting. Avios can be used for:
+
+**Flights (the main event)**
+
+You can book reward flights on British Airways, Iberia, Aer Lingus, and any Oneworld partner airline. The cost depends on the route distance and cabin class.
+
+![Business class — where Avios deliver the best value](https://images.unsplash.com/photo-1768346564210-f382cdf18375?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+
+**Sample Avios costs (one-way):**
+- London to Dublin, economy: 13,000 Avios
+- London to Paris, economy: 9,500 Avios
+- London to New York, economy: 26,000 Avios
+- London to New York, business: 60,000 Avios
+- London to Tokyo, business: 84,000 Avios
+- London to Cape Town, first class: 102,000 Avios
+
+**Important:** On top of Avios, you also pay taxes, fees, and fuel surcharges. On British Airways flights, surcharges can be significant — sometimes £400+ on a long-haul return. This is BA's biggest drawback. Other airlines in the Avios family (like Iberia and Aer Lingus) charge much lower surcharges for the same routes.
+
+**Pro tip:** Book through Iberia or Aer Lingus instead of BA for the same Oneworld flights with lower surcharges. A London to New York flight booked through Iberia's Avios system costs the same Avios but can save you hundreds in fees.
+
+**Upgrades**
+
+If you've bought a cash ticket, you can sometimes use Avios to upgrade to the next cabin. The availability is limited, but when it works, it's great value.
+
+**Hotels**
+
+Avios can be redeemed for hotel stays through the BA Executive Club portal. The value is generally poor compared to flights — you'll get more bang for your buck using Avios for flying.
+
+**Part-Pay with Avios**
+
+BA lets you combine Avios and cash on the same booking. This is useful when you don't have quite enough Avios for a full reward flight. You can slide a bar on ba.com to choose how much you pay in Avios versus cash.
+
+The effective value of Avios in part-pay varies, so check the maths before committing. Sometimes it's better to pay full cash and save your Avios for a pure reward booking.
+
+## The Avios Sweet Spots You Should Know
+
+Not all Avios redemptions are equal. Here are the bookings where insiders get the best value:
+
+**1. Off-Peak Short-Haul**
+
+BA has peak and off-peak pricing. An off-peak economy flight within Europe can cost as little as 9,500 Avios — excellent value when the cash fare is £100+.
+
+**2. Partner Airlines with Low Surcharges**
+
+Using Avios on airlines like Cathay Pacific, Japan Airlines, or Qatar Airways means you pay minimal surcharges. A Cathay Pacific business class flight from Hong Kong to London costs 75,000 Avios with under £50 in taxes. The same routing on BA metal would add £400+ in surcharges.
+
+**3. Qatar Airways Q Suites**
+
+Widely considered the best business class in the world. Bookable with Avios through the BA or Qatar websites. Doha to many destinations in business class costs 42,500–75,000 Avios with low surcharges.
+
+**4. Aer Lingus Transatlantic**
+
+Dublin to US cities in business class for 50,000 Avios with minimal surcharges. If you can position to Dublin, this is one of the best Avios redemptions available.
+
+## Do Avios Expire?
+
+Avios expire after **36 months of inactivity**. That means if you don't earn or spend a single Avios for three years, your balance is wiped.
+
+The good news: almost any activity resets the clock. A single credit card transaction that earns Avios, a small purchase through the shopping portal, or even transferring one Avios point between household accounts keeps your balance alive for another 36 months.
+
+**Tip:** Set a calendar reminder for every 30 months. If you haven't had any Avios activity, do something small to reset the timer.
+
+## Avios vs Other Loyalty Currencies
+
+How do Avios compare to the competition?
+
+![Choosing the right loyalty programme depends on where you fly](https://images.unsplash.com/photo-1567616995076-21d5f1049c7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+
+**Avios vs Flying Blue (Air France/KLM):** Flying Blue is better for intra-Europe flights (4,000 miles vs 9,500 Avios). Avios are better for long-haul premium cabins, especially on Qatar and Cathay Pacific. Ideally, collect both.
+
+**Avios vs Virgin Atlantic Points:** Virgin is excellent for specific routes (especially Upper Class to the US), but Avios offer far more flexibility with the Oneworld alliance. Virgin is limited to Delta and a few partners.
+
+**Avios vs Lufthansa Miles & More:** Miles & More has famously poor redemption rates and high surcharges. Avios win in almost every comparison.
+
+**Verdict:** Avios are arguably the most versatile loyalty currency for UK-based travellers. The combination of BA's network, Oneworld partners, and the ability to use them across six different airlines makes them hard to beat.
+
+## Is Collecting Avios Worth It?
+
+Yes — if you have a plan. Randomly collecting Avios with no redemption goal in mind means your points sit there losing value to inflation and programme devaluations.
+
+**Avios make sense if you:**
+- Fly from the UK or Europe regularly
+- Have a credit card that earns transferable points
+- Are willing to be flexible with travel dates
+- Want to fly business or first class without paying cash fares
+
+**Avios might not be for you if you:**
+- Only fly once a year domestically
+- Prefer to always book the cheapest cash fare regardless of airline
+- Don't want to spend time learning the system
+
+The sweet spot is using Avios for flights you couldn't justify paying cash for. A business class seat to New York that costs £2,500? Hard to justify. The same seat for 60,000 Avios that you earned from credit card spending? That changes the maths entirely.
+
+## Getting Started: Your First Steps
+
+1. **Join the BA Executive Club** — it's free. Sign up at ba.com.
+2. **Get an Avios-earning credit card** — the BA Amex or Amex Preferred Rewards Gold are the best starting points in the UK.
+3. **Link your accounts** — connect your BA, Iberia, and Aer Lingus accounts so you can use Avios across all three.
+4. **Set a goal** — decide where you want to fly and how many Avios you need. Work backwards from there.
+5. **Start earning** — use your credit card for everyday spending, shop through the BA portal, and credit all Oneworld flights to your account.
+
+Building a useful Avios balance takes time — typically 6–12 months of focused earning. But when you're sipping champagne in business class on a flight you "paid" for with grocery shopping points, it all feels very much worth it.`,
+    author: "MilesTopUp Team",
+    date: "2026-02-11",
+    readTime: "12 min read",
+    category: "Avios",
+    image: "https://images.unsplash.com/photo-1589891459986-e4067c86c351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  },
 ];
