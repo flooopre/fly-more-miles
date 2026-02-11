@@ -84,7 +84,7 @@ One final piece of advice: never get Avios speculatively. Only top up when you h
     date: "2026-02-10",
     readTime: "10 min read",
     category: "Avios",
-    image: "https://images.unsplash.com/photo-1700811476524-ebfc7ddff253?w=800&h=400&fit=crop",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/British_Airways_BA_First_Class_Seat_Boeing_747.jpg/800px-British_Airways_BA_First_Class_Seat_Boeing_747.jpg",
   },
   {
     slug: "how-to-get-flying-blue-miles-guide",
@@ -175,7 +175,7 @@ The goal isn't to hoard miles indefinitely. It's to have enough in the bank when
     date: "2026-02-10",
     readTime: "12 min read",
     category: "Flying Blue",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg/800px-Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Air_France_aviation_Business_class%28B777-300ER%29.JPG/800px-Air_France_aviation_Business_class%28B777-300ER%29.JPG",
   },
   {
     slug: "what-are-avios-beginners-guide",
@@ -272,7 +272,7 @@ Most importantly, set a goal. Decide where you want to fly, figure out how many 
     date: "2026-02-11",
     readTime: "14 min read",
     category: "Avios",
-    image: "https://images.unsplash.com/photo-1694029369139-87a047b7bc51?w=800&h=400&fit=crop",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cathay_Pacific_77W_business_class_seat.JPG/800px-Cathay_Pacific_77W_business_class_seat.JPG",
   },
   {
     slug: "avios-vs-flying-blue-which-miles-should-you-get",
