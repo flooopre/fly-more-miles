@@ -13,29 +13,57 @@ const BlogPost = () => {
 
   useEffect(() => {
     if (!post) return;
+    
+    // Add canonical link
+    const canonical = document.createElement("link");
+    canonical.rel = "canonical";
+    canonical.href = `https://milestopup.com/blog/${post.slug}`;
+    canonical.id = "canonical-link";
+    document.head.appendChild(canonical);
+    
+    // Add Article Schema
     const schema = {
       "@context": "https://schema.org",
       "@type": "Article",
       headline: post.title,
       description: post.excerpt,
       image: post.image,
-      author: { "@type": "Organization", name: post.author },
-      publisher: { "@type": "Organization", name: "MilesTopUp", url: "https://milestopup.com" },
+      url: `https://milestopup.com/blog/${post.slug}`,
+      author: { 
+        "@type": "Organization", 
+        name: post.author,
+        url: "https://milestopup.com"
+      },
+      publisher: { 
+        "@type": "Organization", 
+        name: "MilesTopUp", 
+        url: "https://milestopup.com",
+        logo: {
+          "@type": "ImageObject",
+          url: "https://milestopup.com/favicon.svg"
+        }
+      },
       datePublished: post.date,
       dateModified: post.date,
       mainEntityOfPage: {
         "@type": "WebPage",
         "@id": `https://milestopup.com/blog/${post.slug}`,
       },
+      articleSection: post.category,
+      wordCount: Math.round(post.content.split(/\s+/).length),
+      keywords: post.category === "Avios" ? "Avios, British Airways, points and miles" : "Flying Blue, Air France, KLM, miles",
     };
     const script = document.createElement("script");
     script.type = "application/ld+json";
     script.textContent = JSON.stringify(schema);
     script.id = "article-schema";
     document.head.appendChild(script);
+    
     return () => {
-      const el = document.getElementById("article-schema");
-      if (el) el.remove();
+      const canonicalEl = document.getElementById("canonical-link");
+      if (canonicalEl) canonicalEl.remove();
+      const schemaEl = document.getElementById("article-schema");
+      if (schemaEl) schemaEl.remove();
     };
   }, [post]);
 

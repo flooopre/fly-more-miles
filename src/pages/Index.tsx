@@ -19,7 +19,8 @@ const faqSchemaData = [
 
 const Index = () => {
   useEffect(() => {
-    const schema = {
+    // FAQ Schema
+    const faqSchema = {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       mainEntity: faqSchemaData.map((item) => ({
@@ -28,14 +29,42 @@ const Index = () => {
         acceptedAnswer: { "@type": "Answer", text: item.a },
       })),
     };
-    const script = document.createElement("script");
-    script.type = "application/ld+json";
-    script.textContent = JSON.stringify(schema);
-    script.id = "faq-schema";
-    document.head.appendChild(script);
+    const faqScript = document.createElement("script");
+    faqScript.type = "application/ld+json";
+    faqScript.textContent = JSON.stringify(faqSchema);
+    faqScript.id = "faq-schema";
+    document.head.appendChild(faqScript);
+    
+    // Organization Schema
+    const orgSchema = {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: "MilesTopUp",
+      url: "https://milestopup.com",
+      logo: "https://milestopup.com/favicon.svg",
+      description: "Buy Avios and Flying Blue miles at competitive rates. Fast, secure delivery within 24-48 hours.",
+      email: "hello@milestopup.com",
+      sameAs: [
+        "https://twitter.com/MilesTopUp"
+      ],
+      contactPoint: {
+        "@type": "ContactPoint",
+        email: "hello@milestopup.com",
+        contactType: "Customer Service",
+        areaServed: "Worldwide"
+      }
+    };
+    const orgScript = document.createElement("script");
+    orgScript.type = "application/ld+json";
+    orgScript.textContent = JSON.stringify(orgSchema);
+    orgScript.id = "org-schema";
+    document.head.appendChild(orgScript);
+    
     return () => {
-      const el = document.getElementById("faq-schema");
-      if (el) el.remove();
+      const faqEl = document.getElementById("faq-schema");
+      if (faqEl) faqEl.remove();
+      const orgEl = document.getElementById("org-schema");
+      if (orgEl) orgEl.remove();
     };
   }, []);
 

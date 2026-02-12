@@ -14,6 +14,8 @@ const Footer = () => {
         <div className="flex gap-6 text-sm text-muted-foreground">
           <a href="mailto:hello@milestopup.com" className="hover:text-foreground transition-colors">Contact</a>
           <a href="/blog" className="hover:text-foreground transition-colors">Blog</a>
+          <a href="/privacy-policy" className="hover:text-foreground transition-colors">Privacy</a>
+          <a href="/impressum" className="hover:text-foreground transition-colors">Impressum</a>
         </div>
       </div>
     </footer>

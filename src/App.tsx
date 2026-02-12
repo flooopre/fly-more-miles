@@ -10,6 +10,8 @@ const Blog = lazy(() => import("./pages/Blog"));
 const BlogPost = lazy(() => import("./pages/BlogPost"));
 const BuyAvios = lazy(() => import("./pages/BuyAvios"));
 const BuyFlyingBlueMiles = lazy(() => import("./pages/BuyFlyingBlueMiles"));
+const PrivacyPolicy = lazy(() => import("./pages/PrivacyPolicy"));
+const Impressum = lazy(() => import("./pages/Impressum"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -33,6 +35,8 @@ const App = () => (
             <Route path="/blog/:slug" element={<BlogPost />} />
             <Route path="/buy-avios" element={<BuyAvios />} />
             <Route path="/buy-flying-blue-miles" element={<BuyFlyingBlueMiles />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="/impressum" element={<Impressum />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Suspense>
