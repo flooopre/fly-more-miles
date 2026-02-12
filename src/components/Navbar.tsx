@@ -24,6 +24,13 @@ const Navbar = () => {
         {/* Desktop nav */}
         <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
           <a href={howItWorksHref} className="hover:text-foreground transition-colors">How It Works</a>
+          <div className="relative group">
+            <button className="hover:text-foreground transition-colors">Buy Miles ▾</button>
+            <div className="absolute top-full left-0 mt-2 bg-background border border-border rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 min-w-[200px]">
+              <Link to="/buy-avios" className="block px-4 py-3 hover:bg-muted transition-colors">Buy Avios</Link>
+              <Link to="/buy-flying-blue-miles" className="block px-4 py-3 hover:bg-muted transition-colors">Buy Flying Blue Miles</Link>
+            </div>
+          </div>
           <a href={faqHref} className="hover:text-foreground transition-colors">FAQ</a>
           <Link to="/blog" className="hover:text-foreground transition-colors">Blog</Link>
         </div>
@@ -56,6 +63,12 @@ const Navbar = () => {
             <a href={howItWorksHref} onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
               How It Works
             </a>
+            <Link to="/buy-avios" onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
+              Buy Avios
+            </Link>
+            <Link to="/buy-flying-blue-miles" onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
+              Buy Flying Blue Miles
+            </Link>
             <a href={faqHref} onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
               FAQ
             </a>

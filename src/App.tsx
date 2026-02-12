@@ -8,6 +8,8 @@ import { lazy, Suspense } from "react";
 const Index = lazy(() => import("./pages/Index"));
 const Blog = lazy(() => import("./pages/Blog"));
 const BlogPost = lazy(() => import("./pages/BlogPost"));
+const BuyAvios = lazy(() => import("./pages/BuyAvios"));
+const BuyFlyingBlueMiles = lazy(() => import("./pages/BuyFlyingBlueMiles"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -29,6 +31,8 @@ const App = () => (
             <Route path="/" element={<Index />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/blog/:slug" element={<BlogPost />} />
+            <Route path="/buy-avios" element={<BuyAvios />} />
+            <Route path="/buy-flying-blue-miles" element={<BuyFlyingBlueMiles />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Suspense>
