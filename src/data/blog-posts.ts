@@ -11,6 +11,7 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  {
     slug: "cheapest-way-to-get-avios-2026",
     title: "The Cheapest Way to Get Avios Points in 2026: Every Option Compared",
     excerpt: "From Balance Boost at under 1p per Avios to direct purchases at 2.45p — we break down every method to top up your Avios balance and what each one actually costs.",
@@ -485,5 +486,4 @@ If you're short on Avios for any of these bookings, don't let the perfect redemp
     category: "Avios",
     image: "/images/blog/first-class-cabin.jpg",
   },
-  {
 ];
