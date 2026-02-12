@@ -31,6 +31,7 @@ const Navbar = () => {
               <Link to="/buy-flying-blue-miles" className="block px-4 py-3 hover:bg-muted transition-colors">Buy Flying Blue Miles</Link>
             </div>
           </div>
+          <Link to="/tools/avios-calculator" className="hover:text-foreground transition-colors">Calculator</Link>
           <a href={faqHref} className="hover:text-foreground transition-colors">FAQ</a>
           <Link to="/blog" className="hover:text-foreground transition-colors">Blog</Link>
         </div>
@@ -68,6 +69,9 @@ const Navbar = () => {
             </Link>
             <Link to="/buy-flying-blue-miles" onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
               Buy Flying Blue Miles
+            </Link>
+            <Link to="/tools/avios-calculator" onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
+              Avios Calculator
             </Link>
             <a href={faqHref} onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
               FAQ

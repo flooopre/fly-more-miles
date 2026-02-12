@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { ArrowLeft, Calendar, Clock, User } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import BlogCTA from "@/components/BlogCTA";
 import { blogPosts } from "@/data/blog-posts";
 import { Badge } from "@/components/ui/badge";
 
@@ -88,8 +89,17 @@ const BlogPost = () => {
     });
   };
 
+  // Determine CTA type based on post category
+  const ctaType: "avios" | "flyingblue" | "both" = 
+    post.category === "Flying Blue" ? "flyingblue" 
+    : post.category === "Avios" ? "avios" 
+    : "both";
+
   const renderContent = (content: string) => {
-    return content.split("\n\n").map((block, i) => {
+    const blocks = content.split("\n\n");
+    let paragraphCount = 0;
+    
+    return blocks.map((block, i) => {
       const imgMatch = block.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
       if (imgMatch) {
         return (
@@ -115,10 +125,15 @@ const BlogPost = () => {
           </p>
         );
       }
+      paragraphCount++;
+      const showCTA = paragraphCount === 3;
       return (
-        <p key={i} className="text-muted-foreground leading-relaxed mb-4">
-          {renderInline(block)}
-        </p>
+        <div key={i}>
+          <p className="text-muted-foreground leading-relaxed mb-4">
+            {renderInline(block)}
+          </p>
+          {showCTA && <BlogCTA milesType={ctaType} />}
+        </div>
       );
     });
   };
@@ -170,18 +185,7 @@ const BlogPost = () => {
             <div className="prose-custom">{renderContent(post.content)}</div>
 
             <div className="mt-12 pt-8 border-t border-border">
-              <div className="glass-card p-8 text-center">
-                <h3 className="font-display text-xl font-semibold mb-2">Need more miles?</h3>
-                <p className="text-muted-foreground mb-4">
-                  Top up your Avios or Flying Blue balance and book your dream flight today.
-                </p>
-                <Link
-                  to="/"
-                  className="inline-flex gold-gradient text-primary-foreground font-semibold rounded-lg glow-gold hover:opacity-90 transition-opacity px-6 py-3"
-                >
-                  Get a Quote
-                </Link>
-              </div>
+              <BlogCTA milesType={ctaType} />
             </div>
           </motion.div>
         </div>
