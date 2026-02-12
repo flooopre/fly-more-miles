@@ -484,6 +484,6 @@ If you're short on Avios for any of these bookings, don't let the perfect redemp
     date: "2026-02-12",
     readTime: "15 min read",
     category: "Avios",
-    image: "/images/blog/first-class-cabin.jpg",
+    image: "/images/blog/qatar-qsuite-cabin.jpg",
   },
 ];
