@@ -63,8 +63,7 @@ Let's get into the specific redemptions where Flying Blue delivers exceptional v
 
 ### 1. Air France La Première (First Class)
 
-![Air France's new La Première suite featuring the iconic chaise longue and five-window design.](https://samchui.com/wp-content/uploads/2025/03/Air-France-New-La-Premiere-First-Class-Full-Experience-022.jpg)
-*Photo: Sam Chui*
+![Air France's La Première — one of the world's finest first class products.](/images/blog/airfrance-business-777.jpg)
 
 Air France's La Première is consistently ranked among the top three first class products in the world, and in 2025 they unveiled an entirely redesigned suite that raises the bar even higher. This isn't just a seat—it's a multi-compartment private cabin that genuinely feels like flying in a boutique hotel room.
 
@@ -110,8 +109,7 @@ Search directly on airfrance.com after logging into your Flying Blue account. Aw
 
 ### 2. KLM Business Class on Long-Haul Routes
 
-![KLM's World Business Class on the 787-10 Dreamliner features reverse herringbone seating with direct aisle access.](https://liveandletsfly.com/wp-content/uploads/2025/04/KLM-787-10-Business-Class-71.jpeg)
-*Photo: Live and Let's Fly*
+![KLM's World Business Class on the 787 Dreamliner — excellent award availability.](/images/blog/klm-787-schiphol-2024.jpg)
 
 KLM doesn't get the same attention as some flashier carriers, but their long-haul business class product is genuinely excellent and—critically—they release far more award space than Air France does. If you want a premium cabin redemption that you can actually book without waiting months for space to open up, KLM business is your answer.
 
@@ -398,7 +396,7 @@ And when you do spot that perfect award—whether it's La Première to Paris or 
     date: "2026-02-14",
     readTime: "15 min read",
     category: "Flying Blue",
-    image: "/images/blog/air-france-la-premiere-2025.jpg",
+    image: "/images/blog/airfrance-a350.jpg",
   },
   {
     slug: "cheapest-way-to-get-avios-2026",
