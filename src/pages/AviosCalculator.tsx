@@ -34,7 +34,7 @@ const routes: Route[] = [
   { from: "London", to: "Bali", economy: { avios: 45000, cash: 620 }, business: { avios: 90000, cash: 4200 } },
 ];
 
-const COST_PER_AVIOS = 0.012; // £0.012 per Avios (~1.2p)
+const COST_PER_AVIOS = 0.015; // £0.015 per Avios (~1.5p)
 
 const AviosCalculator = () => {
   const [selectedRoute, setSelectedRoute] = useState(0);
@@ -70,7 +70,7 @@ const AviosCalculator = () => {
         {
           "@type": "Question",
           name: "How much do Avios cost to buy?",
-          acceptedAnswer: { "@type": "Answer", text: "Through MilesTopUp, Avios cost approximately 1.2p each — significantly less than British Airways' official sale price of 2-3p per Avios. The more you buy, the better the rate." }
+          acceptedAnswer: { "@type": "Answer", text: "Through MilesTopUp, Avios cost approximately 1.5p each — significantly less than British Airways' official sale price of 2-3p per Avios. The more you buy, the better the rate." }
         },
         {
           "@type": "Question",
@@ -197,7 +197,7 @@ const AviosCalculator = () => {
                     </div>
                     <div className="text-sm text-muted-foreground mb-1">Buy via MilesTopUp</div>
                     <div className="text-3xl font-bold text-green-500">£{milestopupCost.toLocaleString()}</div>
-                    <div className="text-xs text-muted-foreground mt-1">{aviosNeeded.toLocaleString()} Avios @ 1.2p each</div>
+                    <div className="text-xs text-muted-foreground mt-1">{aviosNeeded.toLocaleString()} Avios @ 1.5p each</div>
                   </div>
 
                   {/* Savings */}
@@ -280,7 +280,7 @@ const AviosCalculator = () => {
                 {[
                   { q: "How much are Avios worth?", a: "Avios are typically worth between 0.5p and 2p each, depending on how you redeem them. Business and First Class redemptions offer the best value, often exceeding 1.5p per Avios. Use our calculator above to see the exact value for your preferred route." },
                   { q: "Is it cheaper to buy Avios or pay cash?", a: "For premium cabins (Business and First Class), buying Avios through MilesTopUp is almost always cheaper than paying cash. Savings of 40-70% are common on long-haul Business Class flights. Economy flights may have smaller margins." },
-                  { q: "How much do Avios cost through MilesTopUp?", a: "Our rates start at approximately 1.2p per Avios — significantly less than British Airways' official sale price of 2-3p per Avios. Volume discounts are available for larger purchases." },
+                  { q: "How much do Avios cost through MilesTopUp?", a: "Our rates start at approximately 1.5p per Avios — significantly less than British Airways' official sale price of 2-3p per Avios. Volume discounts are available for larger purchases." },
                   { q: "Is buying Avios from MilesTopUp safe?", a: "Yes. We use official credit card points transfer mechanisms built into loyalty programs. Your Executive Club account stays in your name and is never shared. We guarantee delivery or your money back." },
                 ].map((item, i) => (
                   <details key={i} className="glass-card p-6 group cursor-pointer">
