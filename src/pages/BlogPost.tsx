@@ -118,11 +118,56 @@ const BlogPost = () => {
           </h2>
         );
       }
+      if (block.startsWith("### ")) {
+        return (
+          <h3 key={i} className="font-display text-lg font-semibold mt-6 mb-2 text-foreground">
+            {block.replace("### ", "")}
+          </h3>
+        );
+      }
       if (block.startsWith("**") && block.endsWith("**")) {
         return (
           <p key={i} className="font-semibold text-foreground mb-3">
             {block.replace(/\*\*/g, "")}
           </p>
+        );
+      }
+      // Handle bold label followed by bullet list or just bullet list
+      const lines = block.split("\n");
+      const hasBullets = lines.some(l => l.trimStart().startsWith("- ") || l.trimStart().startsWith("✅"));
+      if (hasBullets) {
+        const labelLines: string[] = [];
+        const bulletLines: string[] = [];
+        let inBullets = false;
+        for (const line of lines) {
+          const trimmed = line.trimStart();
+          if (trimmed.startsWith("- ") || trimmed.startsWith("✅")) {
+            inBullets = true;
+            bulletLines.push(trimmed);
+          } else if (!inBullets) {
+            labelLines.push(line);
+          } else {
+            bulletLines.push(trimmed);
+          }
+        }
+        return (
+          <div key={i} className="mb-4">
+            {labelLines.length > 0 && (
+              <p className="font-semibold text-foreground mb-2">{renderInline(labelLines.join(" "))}</p>
+            )}
+            <ul className="list-disc list-inside space-y-1.5 text-muted-foreground">
+              {bulletLines.map((item, j) => {
+                const text = item.replace(/^- /, "").replace(/^✅\s*/, "✅ ");
+                return <li key={j}>{renderInline(text)}</li>;
+              })}
+            </ul>
+          </div>
+        );
+      }
+      // Handle CTA boxes (pass through as HTML)
+      if (block.includes('<div class="cta-box">') || block.includes('</div>')) {
+        return (
+          <div key={i} className="my-8 p-6 bg-primary/5 border border-primary/20 rounded-xl" dangerouslySetInnerHTML={{ __html: block }} />
         );
       }
       paragraphCount++;
