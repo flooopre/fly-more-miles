@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://milestopup.com/sitemap.xml
+Sitemap: https://www.milestopup.com/sitemap.xml
