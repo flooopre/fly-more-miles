@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Helmet } from "react-helmet";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
@@ -18,6 +17,27 @@ const BuyAvios = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   useEffect(() => {
+    document.title = "Buy British Airways Avios - Best Rates & Fast Delivery | MilesTopUp";
+    
+    // Meta description
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (!metaDesc) {
+      metaDesc = document.createElement("meta");
+      metaDesc.setAttribute("name", "description");
+      document.head.appendChild(metaDesc);
+    }
+    metaDesc.setAttribute("content", "Buy British Airways Avios at competitive rates. Secure delivery within 24-48 hours. Get your quote today.");
+
+    // Canonical
+    let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
+    if (!canonical) {
+      canonical = document.createElement("link");
+      canonical.rel = "canonical";
+      document.head.appendChild(canonical);
+    }
+    canonical.href = "https://milestopup.com/buy-avios";
+
+    // Schema
     const schema = {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -95,13 +115,6 @@ const BuyAvios = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <Helmet>
-        <title>Buy British Airways Avios - Best Rates & Fast Delivery | MilesTopUp</title>
-        <meta name="description" content="Buy British Airways Avios at competitive rates. Secure delivery within 24-48 hours. No bots, real transfers from verified credit card programs. Get your quote today." />
-        <meta name="keywords" content="buy avios, british airways avios, buy ba avios, avios for sale, purchase avios" />
-        <link rel="canonical" href="https://milestopup.com/buy-avios" />
-      </Helmet>
-
       <Navbar />
 
       {/* Hero Section */}
