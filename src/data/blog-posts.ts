@@ -54,6 +54,8 @@ Qatar operates QSuites on most long-haul routes, but here's the thing that trips
 - **Maldives** — short hop, but perfect for honeymoons
 - **New York/Dallas/Los Angeles** — classic transatlantic, though availability is tighter
 
+![The Maldives — one of the best QSuites destinations from Doha](https://cdn.onemileatatime.com/wp-content/uploads/2022/04/Maldives-Pictures-3.jpeg)
+
 **The Doha connection strategy:**
 
 Here's what I tell everyone: embrace the Doha layover. Yes, routing London-Doha-Singapore adds 2-3 hours versus flying direct. But you get two QSuites flights instead of one, access to the Al Mourjan Lounge (genuinely world-class), and often lower Avios costs than direct competitors. Plus, Hamad International Airport is spectacular — the layover doesn't feel like a chore.
@@ -87,6 +89,8 @@ The surcharges? Typically £50-150 depending on route. Compare that to British A
 ## How to Actually Find QSuites Award Availability
 
 Let's be honest: this is the hard part. QSuites availability can be frustratingly scarce, especially on popular routes. But I've booked it enough times to know the patterns. Here's what actually works:
+
+![QSuites seat controls and storage — thoughtfully designed](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-31.jpeg)
 
 ### Book Early — Like, Really Early
 
@@ -172,6 +176,8 @@ The menu is excellent:
 - Champagne that's actually good (often Krug)
 
 The presentation is restaurant-quality with real crockery. I've had better meals in QSuites than at some mid-range restaurants on the ground. Not exaggerating.
+
+![QSuites amenity kit — Diptyque products and premium touches](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-26.jpeg)
 
 ### The WiFi (Actually Works)
 
@@ -398,6 +404,8 @@ The beauty of KLM is consistency. While Air France's award space can be sparse a
 
 KLM operates some fifth freedom routes—flights between two foreign countries—and these sometimes have exceptional award availability. Routes like Buenos Aires to Santiago or Guayaquil to Bonaire can have wide-open business class space at attractive prices. If you're travelling in South America or the Caribbean, it's worth searching KLM's network creatively to see what turns up.
 
+![KLM Crown Lounge Amsterdam — excellent for Flying Blue connections](https://cdn.onemileatatime.com/wp-content/uploads/2019/06/KLM-Lounge-Amsterdam-13.jpg)
+
 ### 3. Delta One Suites Booked with Flying Blue Miles
 
 Here's something most people don't realise: You can book Delta flights using Flying Blue miles, and the pricing is often dramatically better than using Delta's own SkyMiles program.
@@ -419,6 +427,8 @@ That's nearly half the cost for the exact same seat on the exact same flight. Th
 - Select transatlantic routes to Europe
 
 The catch—and it's a significant one—is that Delta doesn't release much premium cabin award space to partner programs. You'll find it, but you need to be patient and flexible. If you have specific dates and can't move them, don't count on Delta space being available through Flying Blue.
+
+![Virgin Atlantic Clubhouse Heathrow — accessible when booking via Flying Blue](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/Virgin-Atlantic-Clubhouse-London-Heathrow-5.jpeg)
 
 ### 4. Virgin Atlantic Upper Class (Hidden Gem)
 
@@ -457,6 +467,8 @@ Yes, European business class is just economy seats with the middle seat blocked 
 - Paris to London: ~12,000 miles
 
 For frequent European travellers, these short-haul redemptions add up to serious value over time. If you're flying multiple European routes in a year, using Flying Blue miles instead of cash fares can save hundreds of euros while upgrading your travel experience.
+
+![Air France Lounge Paris CDG — where Flying Blue journeys begin](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/Air-France-Lounge-Paris-14.jpeg)
 
 ## Monthly Promo Awards: The Secret Weapon
 
