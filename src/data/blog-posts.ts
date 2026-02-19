@@ -317,7 +317,7 @@ Let's get into the specific redemptions where Flying Blue delivers exceptional v
 
 ### 1. Air France La Première (First Class)
 
-![Air France La Première — one of the world's finest first class products](https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Air-France-La-Premiere-First-Class-21.jpeg)
+![Air France Business Class 777 — one of the best ways to cross the Atlantic](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/New-Air-France-Business-Class-777-40.jpeg)
 
 Air France La Première is consistently ranked among the top three first class products in the world, and the 2025 redesign raised the bar even higher. I've been fortunate to fly it twice, and both times I stepped off the plane thinking "that might be the best flight experience available anywhere."
 
@@ -365,7 +365,7 @@ Search directly on airfrance.com after logging into your Flying Blue account. Aw
 
 ### 2. KLM Business Class on Long-Haul Routes
 
-![KLM World Business Class — reliable, comfortable, and great award availability](https://cdn.onemileatatime.com/wp-content/uploads/2019/10/KLM-Business-Class-787-7.jpg)
+![KLM World Business Class 787 — reliable, comfortable, and great award availability](https://cdn.onemileatatime.com/wp-content/uploads/2019/06/KLM-Business-Class-787-1.jpg)
 
 KLM doesn't get the same attention as the flashier carriers, but here's why I keep booking them: they actually release award space. While Air France can be stingy and unpredictable, KLM seats are consistently available—and the product is genuinely excellent.
 
@@ -652,7 +652,7 @@ And when you do spot that perfect award—whether it's La Première to Paris or 
     date: "2026-02-14",
     readTime: "15 min read",
     category: "Flying Blue",
-    image: "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Air-France-La-Premiere-First-Class-21.jpeg",
+    image: "https://cdn.onemileatatime.com/wp-content/uploads/2023/03/New-Air-France-Business-Class-777-40.jpeg",
   },
   {
     slug: "cheapest-way-to-get-avios-2026",
