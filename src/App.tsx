@@ -13,6 +13,8 @@ const BuyFlyingBlueMiles = lazy(() => import("./pages/BuyFlyingBlueMiles"));
 const PrivacyPolicy = lazy(() => import("./pages/PrivacyPolicy"));
 const Impressum = lazy(() => import("./pages/Impressum"));
 const AviosCalculator = lazy(() => import("./pages/AviosCalculator"));
+const SweetSpotsGuide = lazy(() => import("./pages/SweetSpotsGuide"));
+const MilesWorthCalculator = lazy(() => import("./pages/MilesWorthCalculator"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -37,6 +39,8 @@ const App = () => (
             <Route path="/buy-avios" element={<BuyAvios />} />
             <Route path="/buy-flying-blue-miles" element={<BuyFlyingBlueMiles />} />
             <Route path="/tools/avios-calculator" element={<AviosCalculator />} />
+            <Route path="/tools/miles-worth-calculator" element={<MilesWorthCalculator />} />
+            <Route path="/guides/sweet-spots" element={<SweetSpotsGuide />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/impressum" element={<Impressum />} />
             <Route path="*" element={<NotFound />} />
