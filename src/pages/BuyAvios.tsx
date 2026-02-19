@@ -57,6 +57,16 @@ const BuyAvios = () => {
         "4WZLMejoOYRfMkK-s"
       );
 
+      // Track successful form submission in GA4
+      if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
+        (window as any).gtag('event', 'form_submit', {
+          form_id: 'buy_avios_form',
+          form_name: 'Buy Avios Quote',
+          miles_program: 'avios',
+          miles_amount: miles
+        });
+      }
+
       toast({
         title: "Quote request sent!",
         description: "We'll get back to you within a few hours with your personalized quote.",

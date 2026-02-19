@@ -37,6 +37,17 @@ const HeroSection = () => {
         },
         { publicKey: "4WZLMejoOYRfMkK-s" }
       );
+      
+      // Track successful form submission in GA4
+      if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
+        (window as any).gtag('event', 'form_submit', {
+          form_id: 'quote_form',
+          form_name: 'Get a Quote',
+          miles_program: program,
+          miles_amount: miles
+        });
+      }
+      
       toast.success("Quote request sent! We'll get back to you shortly.");
       setName("");
       setEmail("");
