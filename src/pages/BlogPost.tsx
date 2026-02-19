@@ -164,6 +164,43 @@ const BlogPost = () => {
           </div>
         );
       }
+      // Handle markdown tables
+      const tableLines = block.split("\n").filter(l => l.trim());
+      if (tableLines.length >= 2 && tableLines[0].includes("|") && tableLines[1].match(/^\|?[\s\-:|]+\|?$/)) {
+        const parseRow = (row: string) => {
+          return row.split("|").map(cell => cell.trim()).filter((_, idx, arr) => idx > 0 && idx < arr.length - 1 || arr.length === 1);
+        };
+        const headerCells = parseRow(tableLines[0]);
+        const dataRows = tableLines.slice(2).map(parseRow);
+        
+        return (
+          <div key={i} className="my-6 overflow-x-auto">
+            <table className="w-full border-collapse text-sm">
+              <thead>
+                <tr className="border-b border-border">
+                  {headerCells.map((cell, j) => (
+                    <th key={j} className="py-3 px-4 text-left font-semibold text-foreground bg-muted/30">
+                      {renderInline(cell)}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {dataRows.map((row, j) => (
+                  <tr key={j} className="border-b border-border/50 hover:bg-muted/20">
+                    {row.map((cell, k) => (
+                      <td key={k} className="py-3 px-4 text-muted-foreground">
+                        {renderInline(cell)}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        );
+      }
+
       // Handle CTA boxes (pass through as HTML)
       if (block.includes('<div class="cta-box">') || block.includes('</div>')) {
         return (
