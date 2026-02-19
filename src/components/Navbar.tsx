@@ -31,7 +31,14 @@ const Navbar = () => {
               <Link to="/buy-flying-blue-miles" className="block px-4 py-3 hover:bg-muted transition-colors">Buy Flying Blue Miles</Link>
             </div>
           </div>
-          <Link to="/tools/avios-calculator" className="hover:text-foreground transition-colors">Calculator</Link>
+          <div className="relative group">
+            <button className="hover:text-foreground transition-colors">Tools ▾</button>
+            <div className="absolute top-full left-0 mt-2 bg-background border border-border rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 min-w-[220px]">
+              <Link to="/tools/avios-calculator" className="block px-4 py-3 hover:bg-muted transition-colors">Avios Calculator</Link>
+              <Link to="/tools/miles-worth-calculator" className="block px-4 py-3 hover:bg-muted transition-colors">Is It Worth It? Calculator</Link>
+              <Link to="/guides/sweet-spots" className="block px-4 py-3 hover:bg-muted transition-colors border-t border-border">📄 Free Sweet Spots Guide</Link>
+            </div>
+          </div>
           <a href={faqHref} className="hover:text-foreground transition-colors">FAQ</a>
           <Link to="/blog" className="hover:text-foreground transition-colors">Blog</Link>
         </div>
@@ -72,6 +79,12 @@ const Navbar = () => {
             </Link>
             <Link to="/tools/avios-calculator" onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
               Avios Calculator
+            </Link>
+            <Link to="/tools/miles-worth-calculator" onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
+              Is It Worth It? Calculator
+            </Link>
+            <Link to="/guides/sweet-spots" onClick={closeMenu} className="text-primary hover:text-primary/80 transition-colors py-2">
+              📄 Free Sweet Spots Guide
             </Link>
             <a href={faqHref} onClick={closeMenu} className="text-muted-foreground hover:text-foreground transition-colors py-2">
               FAQ

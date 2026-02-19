@@ -15,6 +15,7 @@ const Footer = () => {
           <a href="mailto:hello@milestopup.com" className="hover:text-foreground transition-colors">Contact</a>
           <a href="/blog" className="hover:text-foreground transition-colors">Blog</a>
           <a href="/tools/avios-calculator" className="hover:text-foreground transition-colors">Calculator</a>
+          <a href="/guides/sweet-spots" className="hover:text-foreground transition-colors">Free Guide</a>
           <a href="/privacy-policy" className="hover:text-foreground transition-colors">Privacy</a>
           <a href="/impressum" className="hover:text-foreground transition-colors">Impressum</a>
         </div>
