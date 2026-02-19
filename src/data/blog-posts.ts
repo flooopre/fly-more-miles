@@ -12,6 +12,253 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "qatar-qsuites-complete-guide-booking-with-avios",
+    title: "Qatar Airways QSuites: The Complete Guide to Booking with Avios (2026)",
+    excerpt: "QSuites is the world's best business class — and you can book it with Avios for a fraction of the cash price. Here's everything you need to know about finding availability, booking, and maximising value.",
+    content: `Qatar Airways QSuites is widely considered the best business class product in the sky — and for good reason. Private suites with closing doors, lie-flat beds, exceptional dining, and service that rivals most first class products. The good news? You can book it using Avios at genuinely outstanding value.
+
+This guide covers everything you need to know about booking QSuites with Avios in 2026: how the product works, which routes to target, finding availability, the booking process, and strategies to maximise your chances of securing a seat. If you've been dreaming of flying QSuites, this is your roadmap.
+
+## What Makes QSuites Special
+
+![Qatar Airways QSuites — the world's first business class suite with a closing door](/images/blog/qatar-qsuite-cabin.jpg)
+
+QSuites launched in 2017 and immediately reset expectations for what business class could be. The headline feature is the door — every seat is a private suite with a physical door that closes, giving you genuine privacy that simply doesn't exist in traditional business class configurations.
+
+**The key features:**
+
+- **Private suites** with closing doors at every seat
+- **Fully flat bed** that's 79 inches long — longer than most competitors
+- **Quad configuration** where four centre suites can combine into a private room (perfect for couples or families)
+- **Direct aisle access** from every seat
+- **100GB of free WiFi** (enough for a full workday or streaming)
+- **Outstanding F&B** — dine-on-demand from a menu that rivals many first class products
+- **Exceptional bedding** including a mattress pad, duvet, and multiple pillows
+
+The product genuinely blurs the line between business and first class. Many travellers who've experienced both will tell you QSuites is better than 80% of first class products out there — and it's bookable at business class award rates.
+
+## QSuites Availability: Where You Can Fly
+
+Qatar operates QSuites on most of their long-haul routes, though not every aircraft has the product. Here's what you need to know:
+
+**QSuites routes from London (Heathrow):**
+- London → Doha (multiple daily frequencies)
+- Doha → virtually anywhere Qatar flies
+
+**Key destinations with QSuites from Doha:**
+- **North America:** New York (JFK), Los Angeles, San Francisco, Dallas, Chicago, Houston, Miami, Boston, Washington DC, Seattle, Atlanta, Philadelphia
+- **Asia:** Singapore, Bangkok, Tokyo, Hong Kong, Seoul, Kuala Lumpur, Sydney, Melbourne, Perth, Auckland
+- **Africa:** Cape Town, Johannesburg, Nairobi
+- **Europe:** Most major European cities
+
+**The magic of Doha connections:**
+
+Qatar's hub-and-spoke model through Doha means you can create incredible itineraries. Want to fly QSuites from London to Tokyo? Route through Doha. London to Cape Town? Through Doha. The slight detour adds 2-4 hours to your journey but gives you access to the world's best business class product — and often at lower Avios costs than direct competitors.
+
+**Important:** Not every Qatar flight has QSuites. Before booking, always verify the aircraft type shows "QSuites" on the seat map. Qatar is gradually retrofitting their fleet, but some aircraft still have the older (though still good) business class product.
+
+## How Much Does QSuites Cost in Avios?
+
+This is where things get interesting. Qatar joined the Avios ecosystem in 2022, which means you can book their flights directly through the Qatar Airways website using Avios from your British Airways, Qatar, or any linked Avios account.
+
+**Typical QSuites pricing in Avios (one-way):**
+
+| Route | Avios | Approx. Cash Price | Value per Avios |
+|-------|-------|-------------------|-----------------|
+| London → Doha | 42,500 | £1,800+ | 4.2p |
+| London → Singapore (via DOH) | 70,000 | £3,500+ | 5.0p |
+| London → Sydney (via DOH) | 84,000 | £4,500+ | 5.4p |
+| London → New York (via DOH) | 70,000 | £3,200+ | 4.6p |
+| London → Cape Town (via DOH) | 70,000 | £3,800+ | 5.4p |
+| Doha → Maldives | 31,500 | £1,200+ | 3.8p |
+
+The surcharges on Qatar awards are very reasonable — typically £50-150 depending on the route. This is dramatically better than British Airways, where surcharges on comparable routes can exceed £500.
+
+**Pro tip:** The sweet spot is long-haul routes where cash fares are highest. Flying QSuites to Australia or South Africa for 84,000 Avios when the cash fare is £4,500+ gives you over 5p per Avios — exceptional value that's hard to beat anywhere in the Avios ecosystem.
+
+<div class="cta-box">
+<h3>Need Avios for QSuites?</h3>
+<p>Found the perfect QSuites flight but short on Avios? We can help. <a href="/buy-avios">Get a personalised quote</a> and secure your booking before availability disappears.</p>
+</div>
+
+## Finding QSuites Award Availability
+
+This is the challenging part. QSuites availability can be scarce, particularly on popular routes and dates. Here's how to maximise your chances:
+
+### 1. Search Early — Very Early
+
+Qatar releases award availability approximately 354 days before departure. For premium routes like London-Singapore or London-Sydney in QSuites, the best availability is often in that first week after the calendar opens. Set a reminder and search the moment your travel dates become available.
+
+### 2. Use Qatar's Website Directly
+
+While you can search on BA.com, Qatar's own website (qatarairways.com) sometimes shows availability that doesn't appear on BA. Always cross-check both:
+
+1. Log into your Qatar Privilege Club account (or create one — it's free)
+2. Link your Avios accounts if you haven't already
+3. Search for your route using the "Book with Qmiles" or "Book with Avios" option
+4. Check the seat map to confirm QSuites (not older business class)
+
+### 3. Be Flexible with Dates
+
+QSuites availability is rarely available every day. Being flexible by even 2-3 days can make the difference between finding space and getting shut out. Mid-week flights (Tuesday, Wednesday, Thursday) typically have better availability than weekends.
+
+### 4. Consider Positioning Flights
+
+If you can't find QSuites availability from your home airport, check nearby alternatives. For UK travellers:
+- Manchester has Qatar flights to Doha
+- Dublin and Paris also have QSuites routes
+- A cheap positioning flight might open up better QSuites availability
+
+### 5. Check Regularly for Released Inventory
+
+Qatar doesn't release all award seats at once. Additional availability often appears:
+- 2-3 months before departure
+- 2-4 weeks before departure
+- Sometimes within the final week
+
+Set up alerts using tools like ExpertFlyer (paid) or simply check back regularly on routes you're interested in.
+
+### 6. Consider the Outbound vs Return Split
+
+Sometimes outbound QSuites availability is wide open while the return is sold out (or vice versa). Consider:
+- Booking one direction in QSuites and the other in a different product
+- Booking two separate one-way awards on different dates
+- Using a different airline for one direction (Cathay Pacific from Hong Kong, for example)
+
+## The Booking Process: Step by Step
+
+Once you've found availability, booking is straightforward:
+
+**Option 1: Book via Qatar Airways website**
+1. Log into qatarairways.com with your Privilege Club account
+2. Ensure your Avios accounts are linked (BA, Iberia, etc.)
+3. Search your route and select "Pay with Avios" or "Qmiles"
+4. Choose your flights and confirm QSuites on the seat map
+5. Select your seats (window suites are generally preferred for solo travellers)
+6. Complete payment for taxes/surcharges
+
+**Option 2: Book via British Airways**
+1. Log into ba.com with your Executive Club account
+2. Search for "Reward Flights"
+3. Look for Qatar-operated flights (QR flight numbers)
+4. Note: BA doesn't always show full Qatar availability, so check both sites
+
+**Important:** Avios bookings on Qatar are charged at the same rate regardless of whether you book through BA or Qatar, but the availability shown may differ. Always check both.
+
+## Onboard QSuites: What to Expect
+
+You've booked it — now here's what you're in for:
+
+### The Suite
+
+Each QSuite is your private space for the flight. The door closes fully (though it doesn't lock for safety reasons), and the suite walls are high enough that you can't see neighbouring passengers when seated. The feeling of privacy is genuine.
+
+The seat converts to a fully flat bed at the push of a button. At 79 inches long and 21.5 inches wide, it's one of the largest business class beds in the sky. The mattress pad, duvet, and pillows are high quality — you'll sleep well.
+
+### The Quad
+
+If you're travelling with a partner or family, try to book the centre Quad configuration. Four suites can combine into a single private space with the dividers lowered, creating an intimate area for couples or a shared space for families. It's particularly special for honeymoons or anniversary trips.
+
+### Dining
+
+QSuites offers "dine on demand" — you eat when you want rather than when the crew decides to serve. The menu rotates by route but typically includes:
+- Multiple starter options
+- 3-4 main course choices (often including Arabic specialties)
+- Cheese course
+- Desserts
+- Premium wines and Champagne (often Krug or equivalent)
+
+The presentation is restaurant-quality with proper crockery and glassware. Many passengers say the dining alone is worth the upgrade from economy.
+
+### WiFi and Entertainment
+
+100GB of free WiFi is included — genuinely enough for work, streaming, or video calls. The entertainment system features a large HD screen with an excellent selection of films, TV shows, and music. Noise-cancelling headphones are provided.
+
+### The Lounge Experience
+
+In Doha, QSuites passengers have access to the Al Mourjan Business Lounge — consistently rated one of the world's best. It's enormous (spanning multiple levels), features a full restaurant with à la carte dining, a spa, quiet rooms, and even a garden terrace. If you have a connection in Doha, the lounge alone is worth arriving early for.
+
+<div class="cta-box">
+<h3>Ready to Book QSuites?</h3>
+<p>Don't let your dream QSuites flight slip away because you're a few thousand Avios short. <a href="/buy-avios">Top up your balance</a> and secure your booking today.</p>
+</div>
+
+## QSuites vs Other Business Class Products
+
+How does QSuites compare to the competition? Here's an honest assessment:
+
+**QSuites vs British Airways Club Suite:**
+QSuites wins on privacy (full door vs partial door), bed size, WiFi allowance, and lounge quality. BA wins on direct routings from London (no Doha connection needed) and marginally lower surcharges on some routes. For pure product quality, QSuites is superior.
+
+**QSuites vs Singapore Airlines Business:**
+Very close competition. Singapore's A380 and 787 business class are excellent, with similar privacy levels on newer aircraft. QSuites has the edge on WiFi and dining flexibility; Singapore has better coverage to Asia from Europe. Both are outstanding choices.
+
+**QSuites vs Cathay Pacific Business:**
+Cathay's reverse herringbone seats are comfortable and well-regarded, but they lack the privacy of QSuites' closing door. QSuites is the better product; Cathay sometimes has better availability and lower Avios pricing to Asian destinations.
+
+**QSuites vs Emirates Business:**
+Emirates' 777 business class is showing its age, though their A380 product is competitive. QSuites is generally considered the stronger product, particularly for sleeping. Emirates wins on direct routings and their extensive lounge network.
+
+## Common Mistakes to Avoid
+
+**Mistake #1: Not verifying QSuites on your specific flight**
+
+Not every Qatar flight has QSuites. Before booking, check the seat map to confirm you're getting the QSuites product and not the older business class. The difference is significant.
+
+**Mistake #2: Ignoring positioning possibilities**
+
+If QSuites isn't available from your home airport, a cheap positioning flight to Manchester, Dublin, or a European hub might open up availability. Don't limit yourself to only searching from London.
+
+**Mistake #3: Booking too late**
+
+Premium QSuites routes sell out of award availability quickly. Searching 354 days out is ideal; waiting until 2-3 months before departure often means no availability on your preferred dates.
+
+**Mistake #4: Forgetting to select your suite**
+
+QSuites seat selection is important — window suites offer more privacy, while centre suites are better for couples wanting the Quad configuration. Don't accept a random assignment.
+
+**Mistake #5: Not checking both BA and Qatar websites**
+
+Award availability can differ between booking channels. Always search both BA.com and qatarairways.com before concluding that your route is sold out.
+
+## Sample QSuites Itineraries
+
+**The Classic:** London → Doha → Singapore
+- 70,000 Avios one-way in QSuites
+- Two QSuites flights, Al Mourjan lounge access in Doha
+- Cash value: £3,500+ | Value per Avios: ~5p
+
+**The Long Haul:** London → Doha → Sydney
+- 84,000 Avios one-way in QSuites  
+- Maximum QSuites time, outstanding value
+- Cash value: £4,500+ | Value per Avios: ~5.4p
+
+**The African Adventure:** London → Doha → Cape Town
+- 70,000 Avios one-way in QSuites
+- Unique routing, excellent availability
+- Cash value: £3,800+ | Value per Avios: ~5.4p
+
+**The Quick Luxury:** London → Doha
+- 42,500 Avios one-way in QSuites
+- 7-hour taste of the world's best business class
+- Cash value: £1,800+ | Value per Avios: ~4.2p
+
+## The Bottom Line
+
+Qatar Airways QSuites represents the pinnacle of business class travel, and booking it with Avios delivers exceptional value — typically 4-5p per point on popular routes. The product genuinely rivals first class on many airlines, yet it's bookable at business class award rates.
+
+The keys to success are searching early (354 days out is ideal), being flexible with dates, and checking both BA and Qatar websites for availability. The slight detour through Doha is a small price to pay for access to the world's best business class product.
+
+If you're planning a QSuites trip and find yourself short on Avios, don't let the perfect itinerary slip away. The value proposition on QSuites redemptions is strong enough that [topping up your Avios balance](/blog/cheapest-way-to-get-avios-2026) often makes excellent financial sense — you'll still come out far ahead compared to paying cash for these flights.
+
+QSuites availability won't last forever on any given flight. When you find it, book it.`,
+    author: "MilesTopUp Team",
+    date: "2026-02-19",
+    readTime: "14 min read",
+    category: "Avios",
+    image: "/images/blog/qatar-qsuite-cabin.jpg",
+  },
+  {
     slug: "flying-blue-miles-complete-redemption-guide",
     title: "Flying Blue Miles: The Complete Redemption Guide (2026)",
     excerpt: "Everything you need to know about Flying Blue in 2026—from booking Air France La Première to finding monthly promo awards. The complete guide to maximising your Flying Blue redemptions.",
