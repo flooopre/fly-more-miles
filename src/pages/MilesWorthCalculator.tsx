@@ -238,59 +238,55 @@ const MilesWorthCalculator = () => {
 
                 {/* Detailed Results (gated) */}
                 {!unlocked ? (
-                  <div className="glass-card p-8 relative overflow-hidden">
-                    {/* Blurred preview */}
-                    <div className="absolute inset-0 z-10 bg-gradient-to-t from-background via-background/90 to-background/50 flex items-center justify-center">
-                      <div className="text-center p-6 max-w-sm">
-                        <Lock className="w-10 h-10 text-primary mx-auto mb-4" />
-                        <h3 className="font-display text-xl font-bold mb-2">Unlock Full Results</h3>
-                        <p className="text-sm text-muted-foreground mb-4">
-                          See your exact savings, cost per mile, and personalized recommendation.
-                        </p>
-                        <form onSubmit={handleUnlock} className="space-y-3">
-                          <Input
-                            type="text"
-                            placeholder="Your name"
-                            value={name}
-                            onChange={(e) => setName(e.target.value)}
-                            className="bg-secondary/50 border-border"
-                          />
-                          <Input
-                            type="email"
-                            placeholder="Your email"
-                            value={email}
-                            onChange={(e) => setEmail(e.target.value)}
-                            className="bg-secondary/50 border-border"
-                          />
-                          <Button
-                            type="submit"
-                            disabled={sending}
-                            className="w-full gold-gradient text-primary-foreground font-semibold"
-                          >
-                            {sending ? "Unlocking..." : "Unlock Results"}
-                            {!sending && <Mail className="ml-2 w-4 h-4" />}
-                          </Button>
-                        </form>
-                        <p className="text-xs text-muted-foreground mt-3">No spam. Unsubscribe anytime.</p>
+                  <div className="glass-card p-8 glow-gold">
+                    <div className="text-center max-w-sm mx-auto">
+                      <Lock className="w-12 h-12 text-primary mx-auto mb-4" />
+                      <h3 className="font-display text-xl font-bold mb-2">Unlock Full Results</h3>
+                      <p className="text-sm text-muted-foreground mb-6">
+                        See your exact savings, cost per mile, and personalized recommendation.
+                      </p>
+                      
+                      {/* Teaser of what's behind */}
+                      <div className="grid grid-cols-3 gap-3 mb-6 opacity-40 blur-[2px]">
+                        <div className="text-center p-3 bg-muted/30 rounded-lg">
+                          <p className="text-xs text-muted-foreground">Savings</p>
+                          <p className="text-lg font-bold">??%</p>
+                        </div>
+                        <div className="text-center p-3 bg-muted/30 rounded-lg">
+                          <p className="text-xs text-muted-foreground">Value</p>
+                          <p className="text-lg font-bold">?.?p</p>
+                        </div>
+                        <div className="text-center p-3 bg-muted/30 rounded-lg">
+                          <p className="text-xs text-muted-foreground">Cost</p>
+                          <p className="text-lg font-bold">{currency}???</p>
+                        </div>
                       </div>
-                    </div>
 
-                    {/* Blurred content behind */}
-                    <div className="blur-md opacity-50 pointer-events-none">
-                      <div className="grid grid-cols-3 gap-4 mb-6">
-                        <div className="text-center p-4 bg-muted/30 rounded-xl">
-                          <p className="text-sm text-muted-foreground">You Save</p>
-                          <p className="text-2xl font-bold">XX%</p>
-                        </div>
-                        <div className="text-center p-4 bg-muted/30 rounded-xl">
-                          <p className="text-sm text-muted-foreground">Value/Mile</p>
-                          <p className="text-2xl font-bold">X.Xp</p>
-                        </div>
-                        <div className="text-center p-4 bg-muted/30 rounded-xl">
-                          <p className="text-sm text-muted-foreground">Our Cost</p>
-                          <p className="text-2xl font-bold">{currency}XXX</p>
-                        </div>
-                      </div>
+                      <form onSubmit={handleUnlock} className="space-y-3">
+                        <Input
+                          type="text"
+                          placeholder="Your name"
+                          value={name}
+                          onChange={(e) => setName(e.target.value)}
+                          className="bg-secondary/50 border-border"
+                        />
+                        <Input
+                          type="email"
+                          placeholder="Your email"
+                          value={email}
+                          onChange={(e) => setEmail(e.target.value)}
+                          className="bg-secondary/50 border-border"
+                        />
+                        <Button
+                          type="submit"
+                          disabled={sending}
+                          className="w-full gold-gradient text-primary-foreground font-semibold py-5"
+                        >
+                          {sending ? "Unlocking..." : "Unlock Full Results"}
+                          {!sending && <Mail className="ml-2 w-4 h-4" />}
+                        </Button>
+                      </form>
+                      <p className="text-xs text-muted-foreground mt-4">No spam. Unsubscribe anytime.</p>
                     </div>
                   </div>
                 ) : (
