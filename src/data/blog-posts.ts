@@ -23,7 +23,7 @@ In this guide, I'll share everything I've learned about booking QSuites with Avi
 
 ## What Makes QSuites Special (And Why I Keep Going Back)
 
-![Qatar Airways QSuites — the world's first business class suite with a closing door](/images/blog/qatar-qsuite-cabin.jpg)
+![Qatar Airways QSuites cabin — the world's best business class](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-10.jpeg)
 
 When QSuites launched in 2017, it completely reset what I expected from business class. The headline feature is the door — every single seat is a private suite with a physical door that closes. Not a partial divider like BA's Club Suite, but an actual door. The privacy is genuine, and once you've experienced it, going back to open business class cabins feels like a downgrade.
 
@@ -39,7 +39,7 @@ Is it better than first class on some airlines? Honestly, yes. I'd take QSuites 
 
 ## Where Can You Actually Fly QSuites?
 
-![Qatar A350 at Doha — the hub for QSuites connections worldwide](/images/blog/qatar-a350.jpg)
+![Qatar Airways QSuites individual suite with door closed](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-14.jpeg)
 
 Qatar operates QSuites on most long-haul routes, but here's the thing that trips people up: not every Qatar flight has QSuites. Some aircraft still have the older business class product. It's good, but it's not QSuites-good. Always check the seat map before booking.
 
@@ -146,6 +146,8 @@ Once you've found availability, booking is straightforward:
 
 ## What's It Actually Like Onboard? (My Experience)
 
+![QSuites bedding and amenities — proper mattress pad, pillows, and duvet](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-22.jpeg)
+
 You've booked it — here's what you're in for. And honestly? It's better than you're imagining.
 
 ### The Suite Itself
@@ -176,6 +178,8 @@ The presentation is restaurant-quality with real crockery. I've had better meals
 100GB of free WiFi. Let me repeat that: one hundred gigabytes. I've done full video calls, streamed Netflix, and worked for hours without hitting any limits. On a 14-hour flight to Australia, this is transformative.
 
 ### Al Mourjan Lounge in Doha
+
+![Al Mourjan Business Lounge in Doha — genuinely one of the world's best](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Al-Mourjan-Lounge-21.jpeg)
 
 If you're connecting through Doha, don't rush. The Al Mourjan Business Lounge is consistently rated one of the world's best, and it deserves the reputation. Multiple levels, à la carte dining, a spa, quiet rooms, even a garden terrace. I once arrived 4 hours early for a connection just to spend time there. Worth it.
 
@@ -259,7 +263,7 @@ My advice? When you find QSuites availability, book it. Don't wait. Don't overth
     date: "2026-02-19",
     readTime: "14 min read",
     category: "Avios",
-    image: "/images/blog/qatar-qsuite-cabin.jpg",
+    image: "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-10.jpeg",
   },
   {
     slug: "flying-blue-miles-complete-redemption-guide",
@@ -313,7 +317,7 @@ Let's get into the specific redemptions where Flying Blue delivers exceptional v
 
 ### 1. Air France La Première (First Class)
 
-![Air France's new La Première suite — the most elegant first class in the sky.](/images/blog/air-france-la-premiere-2025.jpg)
+![Air France La Première — one of the world's finest first class products](https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Air-France-La-Premiere-First-Class-21.jpeg)
 
 Air France La Première is consistently ranked among the top three first class products in the world, and the 2025 redesign raised the bar even higher. I've been fortunate to fly it twice, and both times I stepped off the plane thinking "that might be the best flight experience available anywhere."
 
@@ -361,7 +365,7 @@ Search directly on airfrance.com after logging into your Flying Blue account. Aw
 
 ### 2. KLM Business Class on Long-Haul Routes
 
-![KLM's World Business Class on the 787 Dreamliner — reverse herringbone seats with direct aisle access.](/images/blog/klm-business-class-cabin.jpg)
+![KLM World Business Class — reliable, comfortable, and great award availability](https://cdn.onemileatatime.com/wp-content/uploads/2019/10/KLM-Business-Class-787-7.jpg)
 
 KLM doesn't get the same attention as the flashier carriers, but here's why I keep booking them: they actually release award space. While Air France can be stingy and unpredictable, KLM seats are consistently available—and the product is genuinely excellent.
 
@@ -648,7 +652,7 @@ And when you do spot that perfect award—whether it's La Première to Paris or 
     date: "2026-02-14",
     readTime: "15 min read",
     category: "Flying Blue",
-    image: "/images/blog/air-france-la-premiere-2025.jpg",
+    image: "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Air-France-La-Premiere-First-Class-21.jpeg",
   },
   {
     slug: "cheapest-way-to-get-avios-2026",
@@ -688,7 +692,7 @@ During the best promotions, particularly the 50% discount deals that come around
 
 ## 5. Qatar Airways Privilege Club — From ~1.75p per Avios
 
-![Qatar Airways QSuites — bookable with Avios](/images/blog/qatar-qsuite-cabin.jpg)
+![Qatar Airways QSuites — bookable with Avios](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-9.jpeg)
 
 Qatar Airways also uses Avios as their loyalty currency and periodically runs purchase promotions through the Privilege Club. Standard pricing starts around 1.75p per Avios, which isn't cheap, but bonus offers can bring this down to more reasonable territory. Prices are typically quoted in USD, so exchange rates matter for UK-based buyers and can work either for or against you depending on when you purchase.
 
@@ -951,7 +955,7 @@ Qatar Airways Q Suites are widely regarded as the best business class product fl
 
 Flying Blue can't match this breadth of premium cabin access. SkyTeam has some excellent products — Korean Air's first class is spectacular, and Delta One is solid — but the overall selection of world-class business and first class products is narrower than what Oneworld offers. Air France and KLM's own business class is perfectly good but doesn't quite reach the heights of Qatar's Q Suites or Cathay's latest cabins.
 
-![Long-haul business class — where Avios redemptions deliver the most value](/images/blog/qatar-qsuite-cabin.jpg)
+![Long-haul business class — where Avios redemptions deliver the most value](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg)
 
 There's also the surcharge question. British Airways is notorious for adding hefty fuel surcharges to award tickets on their own flights — sometimes £400 or more on a long-haul return. But here's the thing that experienced Avios collectors know: you can avoid most of these surcharges by booking through Iberia Plus or Aer Lingus AerClub instead of BA Executive Club. The same Oneworld partner flight, same Avios cost, dramatically lower cash outlay. Flying Blue's surcharges on Air France and KLM metal are more moderate and predictable, which is simpler but doesn't offer the same optimisation opportunities.
 
@@ -1020,7 +1024,7 @@ If you're new to Avios and want to understand the basics first, start with our [
 
 ## 1. Qatar Airways QSuites — The Gold Standard
 
-![Qatar Airways QSuites — widely considered the best business class in the world](/images/blog/qatar-qsuite-cabin.jpg)
+![Qatar Airways QSuites — widely considered the best business class in the world](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-25.jpeg)
 
 Let's start with the redemption that single-handedly justifies the entire Avios ecosystem for many collectors. Qatar Airways QSuites is not just a business class product — it's a private suite with a closing door, a lie-flat bed that's genuinely comfortable for sleeping, restaurant-quality dining, and service that makes you feel like you're the only person on the aircraft. Multiple publications have rated it the best business class in the world, and having flown it, I wouldn't argue.
 

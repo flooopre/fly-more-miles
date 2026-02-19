@@ -113,14 +113,14 @@ const BlogPost = () => {
       }
       if (block.startsWith("## ")) {
         return (
-          <h2 key={i} className="font-display text-xl font-semibold mt-8 mb-3 text-foreground">
+          <h2 key={i} className="font-display text-2xl md:text-3xl font-bold mt-12 mb-4 text-foreground border-b border-border pb-2">
             {block.replace("## ", "")}
           </h2>
         );
       }
       if (block.startsWith("### ")) {
         return (
-          <h3 key={i} className="font-display text-lg font-semibold mt-6 mb-2 text-foreground">
+          <h3 key={i} className="font-display text-lg md:text-xl font-semibold mt-8 mb-3 text-foreground/90">
             {block.replace("### ", "")}
           </h3>
         );
