@@ -24,13 +24,13 @@ const steps = [
 
 const HowItWorks = () => {
   return (
-    <section className="py-24 px-4" id="how-it-works">
+    <section className="py-16 px-4" id="how-it-works">
       <div className="container max-w-6xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="text-center mb-16 space-y-4"
+          className="text-center mb-12 space-y-4"
         >
           <span className="text-sm text-primary font-medium uppercase tracking-wider">How It Works</span>
           <h2 className="text-3xl sm:text-4xl font-bold font-display">

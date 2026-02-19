@@ -1,9 +1,12 @@
 import { useEffect } from "react";
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
+import SocialProof from "@/components/SocialProof";
+import TrustBadges from "@/components/TrustBadges";
 import HowItWorks from "@/components/HowItWorks";
 import Testimonials from "@/components/Testimonials";
 import FAQSection from "@/components/FAQSection";
+import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
 
 const faqSchemaData = [
@@ -72,9 +75,12 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <Navbar />
       <HeroSection />
+      <SocialProof />
+      <TrustBadges />
       <HowItWorks />
       <Testimonials />
       <FAQSection />
+      <CTASection />
       <Footer />
     </div>
   );
