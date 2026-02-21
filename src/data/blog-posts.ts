@@ -2016,14 +2016,18 @@ Not bad for flights you'd probably be taking anyway.`,
   {
     slug: "cheapest-way-to-buy-avios",
     title: "Cheapest Way to Buy Avios in 2026: All Options Compared",
-    excerpt: "From BA direct purchases to Iberia transfers and third-party services—we compare every method to buy Avios and reveal which delivers the best value.",
-    content: `If you need to top up your Avios balance for a specific booking, paying full retail price from ba.com is almost never the right move. The cost difference between the cheapest and most expensive method of acquiring Avios can be 2-3x, which means you could literally pay triple for the exact same points simply by choosing the wrong purchase channel.
+    excerpt: "I've tested every method to buy Avios—from BA direct to Iberia promotions to third-party services. Here's what actually works and what's a waste of money.",
+    content: `Look, I get it. You've found the perfect QSuites award seat, you're 15,000 Avios short, and you need to figure out the cheapest way to top up your balance without getting ripped off. I've been there more times than I can count.
 
-I've tested every Avios purchasing method available in 2026—from BA's own Balance Boost to Iberia transfer bonuses to third-party top-up services—and the pricing variance is genuinely shocking. This guide breaks down exactly what each option costs, who it's best for, and the strategy I'd recommend based on your specific situation.
+![Qatar Airways QSuites — the kind of redemption that makes buying Avios worthwhile](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-9.jpeg)
+
+Here's what I've learned after years of buying, earning, and strategically acquiring Avios: the difference between the cheapest and most expensive purchase method can be **2-3x**. That means you could literally pay triple for the exact same points by choosing the wrong option. It's honestly a bit mad.
+
+I've tested every Avios purchasing method available in 2026—from BA's own Balance Boost to Iberia transfer bonuses to third-party top-up services—and the pricing variance is genuinely shocking. Let me walk you through exactly what each option costs and when I'd actually use each one.
 
 ## Option 1: BA Avios Balance Boost (From 0.92p per Avios)
 
-![British Airways Avios—the cheapest rates come from Balance Boost](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-22.jpeg)
+![Business class cabin — what you're saving up those Avios for](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-10.jpeg)
 
 Balance Boost is comfortably the cheapest way to buy Avios directly from British Airways, and it's not even close. The catch is that you need recent earning activity to qualify.
 
@@ -2089,7 +2093,9 @@ Even at the expensive retail rate, you're still dramatically ahead. But always c
 
 ## Option 3: Iberia Plus Transfer Bonuses (From ~1.05p per Avios)
 
-Here's something most casual Avios collectors don't know: Iberia Plus (which uses the same Avios currency) runs purchase promotions 4–6 times per year offering 25–50% bonus Avios. Because you can instantly transfer Avios between your BA and Iberia accounts, these promotions are functionally identical to buying Avios from BA—except cheaper.
+![Premium cabin travel — achievable when you buy Avios strategically](https://cdn.onemileatatime.com/wp-content/uploads/2019/06/KLM-Business-Class-787-1.jpg)
+
+Here's something that took me way too long to figure out: Iberia Plus (which uses the same Avios currency) runs purchase promotions 4–6 times per year offering 25–50% bonus Avios. Because you can instantly transfer Avios between your BA and Iberia accounts, these promotions are functionally identical to buying Avios from BA—except cheaper.
 
 **How it works:**
 
@@ -2117,7 +2123,9 @@ The process is identical to Iberia: create a Finnair Plus account, link it to yo
 
 ## Option 5: Avios Subscription (From 0.99p per Avios)
 
-BA's Avios Subscription is a monthly direct debit where you commit to purchasing a set number of Avios annually, delivered in monthly instalments. There are four tiers:
+![Airport lounges are part of the premium experience Avios can unlock](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Al-Mourjan-Lounge-21.jpeg)
+
+BA's Avios Subscription is a monthly direct debit where you commit to purchasing a set number of Avios annually, delivered in monthly instalments. I'll be honest — I've never used this personally because I prefer flexibility, but it can work brilliantly for the right person. There are four tiers:
 
 | Annual Avios | Monthly Cost | Annual Prepay | Effective Cost per Avios |
 |--------------|--------------|---------------|-------------------------|
@@ -2165,7 +2173,9 @@ Rates vary based on quantity and current market conditions, but generally fall i
 
 ## Option 7: Credit Card Transfers (Often the Best Value)
 
-Technically not "buying" Avios, but transferring points from credit card programmes like Amex Membership Rewards or Chase Ultimate Rewards is often the cheapest method of all—especially if you earned those points through welcome bonuses.
+![Lie-flat beds, champagne, and privacy — this is why we collect miles](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-14.jpeg)
+
+Okay, technically this isn't "buying" Avios, but transferring points from credit card programmes like Amex Membership Rewards or Chase Ultimate Rewards is often the cheapest method of all. This is honestly how I've acquired most of my Avios over the years.
 
 **Example calculation:**
 
@@ -2189,7 +2199,9 @@ This is more expensive than Iberia or Finnair bonuses but can be useful if those
 
 ## Decision Framework: Which Method Should You Use?
 
-Here's my recommended decision tree:
+![Destinations like the Maldives become accessible with smart Avios strategy](https://cdn.onemileatatime.com/wp-content/uploads/2022/04/Maldives-Pictures-3.jpeg)
+
+After years of doing this, here's the decision tree I actually follow:
 
 **If you have recent Avios earning activity:**
 → Use Balance Boost (0.92p per Avios)—this is the cheapest option
@@ -2237,7 +2249,9 @@ Always run the numbers before buying. The goal is extracting value, not accumula
 
 ## The Bottom Line
 
-The cheapest way to get Avios depends entirely on your timeline and eligibility:
+![Long-haul business class — absolutely worth the strategic planning](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg)
+
+After all my experimenting, here's the honest summary. The cheapest way to get Avios depends entirely on your timeline and eligibility:
 
 - **Absolute cheapest:** Balance Boost at 0.92p (if eligible)
 - **Best for planning ahead:** Credit card bonuses at 0.7p–1.0p effective cost
