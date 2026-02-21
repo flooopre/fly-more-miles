@@ -676,7 +676,7 @@ The good news is that there are several ways to get Avios at a reasonable price,
 
 ## 1. Avios Balance Boost — From 0.92p per Avios
 
-![British Airways A350-1000 — the home of Avios points](https://cdn.onemileatatime.com/wp-content/uploads/2022/09/British-Airways-787-3.jpeg)
+![British Airways A350-1000 — the home of Avios points](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg)
 
 Balance Boost is the cheapest standard way to get Avios for most people, and it's a feature that doesn't get nearly enough attention. The way it works is straightforward: BA allows you to purchase additional Avios equal to 100%, 200%, or 300% of the Avios you've earned in the previous 30 days. So if you earned 10,000 Avios from a flight or credit card spend last month, you can boost your balance by up to 30,000 additional Avios at just 0.92p each. That works out to £276 for 30,000 Avios — genuinely hard to beat anywhere.
 
@@ -690,7 +690,7 @@ The obvious limitation here is that your Avios arrive gradually rather than as a
 
 ## 3. Credit Card Sign-Up Bonuses — Effective Cost Under 1p
 
-![Credit card rewards are the fastest way to earn Avios](https://cdn.onemileatatime.com/wp-content/uploads/2021/02/Amex-Centurion-Lounge-33.jpeg)
+![Credit card rewards are the fastest way to earn Avios](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-25.jpeg)
 
 If you're based in the UK and you're not using a credit card to earn Avios, you're leaving significant value on the table. The BA American Express cards offer welcome bonuses of 25,000 Avios or more, and the Amex Preferred Rewards Gold earns Membership Rewards points that transfer 1:1 to Avios with its own generous sign-up bonus on top.
 
@@ -739,7 +739,7 @@ One final piece of advice: never get Avios speculatively. Only top up when you h
     date: "2026-02-10",
     readTime: "10 min read",
     category: "Avios",
-    image: "https://cdn.onemileatatime.com/wp-content/uploads/2022/09/British-Airways-787-3.jpeg",
+    image: "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg",
   },
   {
     slug: "how-to-get-flying-blue-miles-guide",
@@ -777,7 +777,7 @@ To put that in practical terms, a €500 round-trip flight from Paris to New Yor
 
 ## The Monthly Promo Rewards
 
-![Air France Business Class on the 777-300ER — bookable at a discount during Promo Rewards](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/Air-France-La-Premiere-777-2.jpeg)
+![Air France Business Class on the 777-300ER — bookable at a discount during Promo Rewards](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/New-Air-France-Business-Class-777-40.jpeg)
 
 This deserves its own section because it's genuinely Flying Blue's most distinctive and valuable feature. Around the first week of each month, Air France and KLM publish a list of routes where award flights are available at a significant discount — typically 25% to 50% off the standard mileage price. The discounts apply across all cabins, and they must be booked by the end of the month.
 
@@ -842,7 +842,7 @@ Whatever brought you here, this guide is going to walk you through everything �
 
 ## The Basics: What Avios Actually Are
 
-![British Airways A350-1000 — the biggest airline in the Avios family](https://cdn.onemileatatime.com/wp-content/uploads/2022/09/British-Airways-787-3.jpeg)
+![British Airways A350-1000 — the biggest airline in the Avios family](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg)
 
 At its core, Avios is a loyalty currency — think of it like air miles, except that it's shared across a whole group of airlines rather than being locked to just one. The name "Avios" has been around since 2011, when British Airways merged its old BA Miles programme with Iberia's. The idea was to create a single, flexible currency that could be earned and spent across multiple carriers.
 
@@ -1098,7 +1098,7 @@ The key word here is "off-peak." BA publishes an off-peak calendar, and the date
 
 ## 6. British Airways First Class on Select Routes
 
-![British Airways First Class cabin — select routes offer outstanding Avios value](https://cdn.onemileatatime.com/wp-content/uploads/2022/09/British-Airways-787-3.jpeg)
+![British Airways First Class cabin — select routes offer outstanding Avios value](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg)
 
 BA's own First Class gets a mixed reputation in the points world, largely because the surcharges on BA-operated flights can be eye-watering. But on select routes, the combination of a premium product and manageable total cost makes this a worthwhile redemption.
 
@@ -1151,7 +1151,7 @@ The "earn miles by flying" model is outdated for anyone serious about maximising
 
 ## Credit Cards: The Fastest Route to Avios
 
-![Credit card rewards remain the single fastest way to build an Avios balance](https://cdn.onemileatatime.com/wp-content/uploads/2021/02/Amex-Centurion-Lounge-33.jpeg)
+![Credit card rewards remain the single fastest way to build an Avios balance](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-25.jpeg)
 
 If you only implement one strategy from this entire guide, make it this one. Credit cards are hands-down the most efficient Avios accumulation engine available to UK residents, and it's not even close. Between sign-up bonuses, everyday spending, and periodic promotions, a well-chosen credit card can generate 40,000+ Avios per year without any behaviour change beyond using the card for purchases you'd make anyway.
 
@@ -1206,7 +1206,7 @@ This approach takes slightly more effort than just earning Avios directly, but t
 
 ## Shopping Portals: Free Avios on Purchases You'd Make Anyway
 
-![The BA Shopping portal offers Avios on hundreds of retailers](https://cdn.onemileatatime.com/wp-content/uploads/2021/08/Shopping-Portal-14.jpeg)
+![The BA Shopping portal offers Avios on hundreds of retailers](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Al-Mourjan-Lounge-21.jpeg)
 
 Shopping portals are one of those "why wouldn't you?" strategies that take 30 seconds to use and cost nothing. The British Airways Shopping portal (ba.com/shopping) partners with hundreds of online retailers, offering bonus Avios on every purchase you make through the portal.
 
@@ -1281,7 +1281,7 @@ This strategy is particularly powerful when combined with credit cards. If both 
 
 ## Hotel and Car Rental Partners
 
-![Accor, Marriott, and other hotel chains can generate Avios too](https://cdn.onemileatatime.com/wp-content/uploads/2019/05/Marriott-Bonvoy-17.jpeg)
+![Accor, Marriott, and other hotel chains can generate Avios too](https://cdn.onemileatatime.com/wp-content/uploads/2019/06/KLM-Lounge-Amsterdam-13.jpg)
 
 While not as lucrative as credit cards or shopping portals, hotel stays and car rentals offer another way to drip-feed Avios into your account.
 
@@ -1350,7 +1350,7 @@ The people who consistently fly business class on points aren't necessarily flyi
     date: "2026-02-21",
     readTime: "16 min read",
     category: "Avios",
-    image: "https://cdn.onemileatatime.com/wp-content/uploads/2021/02/Amex-Centurion-Lounge-33.jpeg",
+    image: "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Qsuites-777-25.jpeg",
   },
   {
     slug: "british-airways-avios-sale-2026",
@@ -1364,7 +1364,7 @@ This guide breaks down the historical patterns, what to expect in 2026, and the 
 
 ## Understanding the Sale Patterns
 
-![British Airways Executive Club—where Avios sales happen](https://cdn.onemileatatime.com/wp-content/uploads/2022/09/British-Airways-787-3.jpeg)
+![British Airways Executive Club—where Avios sales happen](https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg)
 
 British Airways itself runs direct Avios sales roughly 3–5 times per year, though the timing varies. Looking at historical data from 2022–2025, the most common sale periods have been:
 
@@ -1427,7 +1427,7 @@ The most reliable approach is to set up Google Alerts for phrases like "British 
 
 ## Iberia Plus: Often Better Than BA's Own Sales
 
-![Iberia A350—their Avios sales are often more generous than BA's](https://cdn.onemileatatime.com/wp-content/uploads/2019/04/Iberia-Business-Class-A350-15.jpeg)
+![Iberia A350—their Avios sales are often more generous than BA's](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/New-Air-France-Business-Class-777-40.jpeg)
 
 Here's something most casual Avios collectors don't realise: Iberia Plus runs Avios purchase promotions more frequently and often more generously than British Airways. We're talking 50% bonus promotions appearing 4–6 times per year, compared to BA's 2–3 times annually.
 
@@ -1541,7 +1541,7 @@ Watch for the sales, understand the patterns, but never let a promotion pressure
     date: "2026-02-21",
     readTime: "13 min read",
     category: "Avios",
-    image: "https://cdn.onemileatatime.com/wp-content/uploads/2022/09/British-Airways-787-3.jpeg",
+    image: "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-Airways-Business-Class-777-43.jpeg",
   },
   {
     slug: "flying-blue-miles-value-calculator",
@@ -1617,7 +1617,7 @@ This is transformative. You're getting over five times baseline value, which mea
 
 ### 2. Air France La Première (First Class)
 
-![Air France La Première—the ultimate Flying Blue redemption](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/Air-France-La-Premiere-777-2.jpeg)
+![Air France La Première—the ultimate Flying Blue redemption](https://cdn.onemileatatime.com/wp-content/uploads/2023/03/New-Air-France-Business-Class-777-40.jpeg)
 
 La Première is consistently rated among the world's top three first class products, and the Flying Blue pricing is shockingly reasonable given the experience. A one-way flight from Paris to New York in La Première costs 100,000–110,000 miles plus minimal taxes.
 
