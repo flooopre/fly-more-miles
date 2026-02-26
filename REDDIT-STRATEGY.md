@@ -1,6 +1,6 @@
 # Reddit Marketing Strategy - MilesTopUp
 **Date:** 26 February 2026  
-**Account:** u/Mountain_Ranger5832  
+**Account:** u/FlyingOnPoints13  
 **Goal:** Build karma, provide value, drive qualified traffic
 
 ---
