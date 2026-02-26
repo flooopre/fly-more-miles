@@ -1,7 +1,7 @@
 import { useParams, Link, Navigate } from "react-router-dom";
 import { useEffect } from "react";
 import { motion } from "framer-motion";
-import { ArrowLeft, Calendar, Clock, User } from "lucide-react";
+import { ArrowLeft, Calendar, Clock, User, ChevronRight } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import BlogCTA from "@/components/BlogCTA";
@@ -22,8 +22,46 @@ const BlogPost = () => {
     canonical.id = "canonical-link";
     document.head.appendChild(canonical);
     
+    // Update meta tags for unique OG image per post
+    const updateOrCreateMeta = (property: string, content: string, id: string) => {
+      let meta = document.head.querySelector(`meta[property="${property}"]`) as HTMLMetaElement;
+      if (!meta) {
+        meta = document.createElement("meta");
+        meta.setAttribute("property", property);
+        meta.id = id;
+        document.head.appendChild(meta);
+      }
+      meta.setAttribute("content", content);
+    };
+    
+    updateOrCreateMeta("og:title", post.title, "og-title");
+    updateOrCreateMeta("og:description", post.excerpt, "og-description");
+    updateOrCreateMeta("og:image", post.image, "og-image");
+    updateOrCreateMeta("og:url", `https://milestopup.com/blog/${post.slug}`, "og-url");
+    updateOrCreateMeta("og:type", "article", "og-type");
+    
+    // Twitter Card
+    const updateOrCreateTwitterMeta = (name: string, content: string, id: string) => {
+      let meta = document.head.querySelector(`meta[name="${name}"]`) as HTMLMetaElement;
+      if (!meta) {
+        meta = document.createElement("meta");
+        meta.setAttribute("name", name);
+        meta.id = id;
+        document.head.appendChild(meta);
+      }
+      meta.setAttribute("content", content);
+    };
+    
+    updateOrCreateTwitterMeta("twitter:card", "summary_large_image", "twitter-card");
+    updateOrCreateTwitterMeta("twitter:title", post.title, "twitter-title");
+    updateOrCreateTwitterMeta("twitter:description", post.excerpt, "twitter-description");
+    updateOrCreateTwitterMeta("twitter:image", post.image, "twitter-image");
+    
+    // Update document title
+    document.title = `${post.title} | MilesTopUp Blog`;
+    
     // Add Article Schema
-    const schema = {
+    const articleSchema = {
       "@context": "https://schema.org",
       "@type": "Article",
       headline: post.title,
@@ -54,17 +92,52 @@ const BlogPost = () => {
       wordCount: Math.round(post.content.split(/\s+/).length),
       keywords: post.category === "Avios" ? "Avios, British Airways, points and miles" : "Flying Blue, Air France, KLM, miles",
     };
-    const script = document.createElement("script");
-    script.type = "application/ld+json";
-    script.textContent = JSON.stringify(schema);
-    script.id = "article-schema";
-    document.head.appendChild(script);
+    
+    // Add Breadcrumb Schema
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://milestopup.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://milestopup.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": post.title,
+          "item": `https://milestopup.com/blog/${post.slug}`
+        }
+      ]
+    };
+    
+    const articleScript = document.createElement("script");
+    articleScript.type = "application/ld+json";
+    articleScript.textContent = JSON.stringify(articleSchema);
+    articleScript.id = "article-schema";
+    document.head.appendChild(articleScript);
+    
+    const breadcrumbScript = document.createElement("script");
+    breadcrumbScript.type = "application/ld+json";
+    breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    breadcrumbScript.id = "breadcrumb-schema";
+    document.head.appendChild(breadcrumbScript);
     
     return () => {
       const canonicalEl = document.getElementById("canonical-link");
       if (canonicalEl) canonicalEl.remove();
-      const schemaEl = document.getElementById("article-schema");
-      if (schemaEl) schemaEl.remove();
+      const articleSchemaEl = document.getElementById("article-schema");
+      if (articleSchemaEl) articleSchemaEl.remove();
+      const breadcrumbSchemaEl = document.getElementById("breadcrumb-schema");
+      if (breadcrumbSchemaEl) breadcrumbSchemaEl.remove();
     };
   }, [post]);
 
@@ -227,6 +300,21 @@ const BlogPost = () => {
       <article className="pt-28 pb-20 px-4">
         <div className="container max-w-3xl mx-auto">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
+            {/* Breadcrumb Navigation */}
+            <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
+              <Link to="/" className="hover:text-primary transition-colors">
+                Home
+              </Link>
+              <ChevronRight className="w-4 h-4" />
+              <Link to="/blog" className="hover:text-primary transition-colors">
+                Blog
+              </Link>
+              <ChevronRight className="w-4 h-4" />
+              <span className="text-foreground truncate max-w-[200px] md:max-w-none" title={post.title}>
+                {post.title}
+              </span>
+            </nav>
+            
             <Link
               to="/blog"
               className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors mb-8"
