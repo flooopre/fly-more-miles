@@ -108,22 +108,32 @@ MilesTopUp sells Avios and Flying Blue miles via credit card points transfers. T
 - Price calculator tool
 - Promo tracker
 
-### 4.2 Blog Post Priority (First 10 Articles)
+### 4.2 Existing Blog Posts (Published)
 
-| # | Title | Target Keyword | Difficulty | Intent |
-|---|-------|----------------|------------|--------|
-| 1 | **Cheapest Way to Buy Avios Points in 2026** | cheapest way to buy avios points uk | 45 | Commercial |
-| 2 | **How to Buy Flying Blue Miles: Complete Guide** | buy flying blue miles | 55 | Commercial |
-| 3 | **What Are Avios? A Beginner's Guide** | what are avios | 55 | Informational |
-| 4 | **Avios vs Flying Blue: Which Miles Should You Buy?** | avios vs flying blue | ~50 | Comparison |
-| 5 | **Best Business Class Flights You Can Book with Avios** | best avios redemptions business class | ~52 | Inspirational |
-| 6 | **How Much Do 10,000 Avios Cost? Pricing Breakdown** | how much to buy 10000 avios | 48 | Commercial |
-| 7 | **Flying Blue Promo Rewards: How to Get the Best Deals** | flying blue promo rewards | ~50 | Informational |
-| 8 | **Top Up Avios for Family Travel: Pooling Guide** | top up avios family account | ~35 | Commercial (gap) |
-| 9 | **Is It Safe to Buy Miles Online? What You Need to Know** | is it safe to buy avios | ~40 | Trust/Commercial |
-| 10 | **Avios Redemption Chart 2026: Complete Route Guide** | avios redemption chart | 68 | Informational |
+| # | Title | Status | Target Keyword | Notes |
+|---|-------|--------|----------------|-------|
+| 1 | **Qatar Airways QSuites: Complete Guide to Booking with Avios (2026)** | ✅ Live | qatar qsuites avios | 14 min read, comprehensive |
+| 2 | **Flying Blue Miles: The Complete Redemption Guide (2026)** | ✅ Live | flying blue miles redemption | 15 min read, comprehensive |
+| 3 | **The Cheapest Way to Get Avios Points in 2026: Every Option Compared** | ✅ Live | cheapest way to buy avios | Targets main commercial keyword |
+
+### 4.3 Next 10 Blog Posts (Priority Order)
+
+| # | Title | Target Keyword | Difficulty | Intent | Action |
+|---|-------|----------------|------------|--------|--------|
+| 1 | **What Are Avios? A Beginner's Guide (2026)** | what are avios | 55 | Informational | NEW |
+| 2 | **Avios vs Flying Blue: Which Miles Should You Buy?** | avios vs flying blue | ~50 | Comparison | NEW |
+| 3 | **Flying Blue Miles for Sale UK: Complete 2026 Guide** | flying blue miles for sale uk | 40 | Commercial | NEW (low-comp) |
+| 4 | **How Much Do 10,000 Avios Cost? Real Pricing Breakdown** | how much to buy 10000 avios | 48 | Commercial | NEW |
+| 5 | **Flying Blue Promo Rewards 2026: Monthly Tracker** | flying blue promo rewards | ~50 | Informational | NEW (recurring) |
+| 6 | **Is It Safe to Buy Miles Online? Security Guide 2026** | is it safe to buy avios | ~40 | Trust | NEW (gap) |
+| 7 | **Top Up Avios for Family Travel: Household Account Guide** | top up avios family account | ~35 | Commercial | NEW (low-comp) |
+| 8 | **Best Price to Purchase Avios Points in 2026** | best price to purchase avios points 2026 | 38 | Commercial | NEW (easiest) |
+| 9 | **Avios Redemption Chart 2026: Complete Route Guide** | avios redemption chart | 68 | Informational | NEW |
+| 10 | **Singapore Airlines Business Class with Avios: How to Book** | singapore airlines avios | ~45 | Inspirational | NEW (sweet spot) |
 
 **Publishing cadence:** 2 articles per week → all 10 live within 5 weeks.
+
+**Note:** QSuites post covers one business class option. Future posts (#10) can expand to other sweet spots (Singapore, Cathay, JAL).
 
 ### 4.3 Content Format Best Practices
 
@@ -177,31 +187,39 @@ Every article must include:
 
 ## 6. Technical SEO Priorities
 
-### 6.1 Immediate Actions (This Week)
+### 6.1 Already Completed ✅
 
-- [x] ~~Google Search Console verified + sitemap submitted~~
-- [x] ~~Meta title & description optimised (was "Lovable App")~~
-- [ ] Add robots.txt
-- [ ] Set up Google Analytics (GA4)
+- [x] Google Search Console verified + sitemap submitted
+- [x] Meta title & description optimised
+- [x] robots.txt added
+- [x] Google Analytics (GA4) installed (G-KE1RGLPD41)
+- [x] Event tracking (form_submit, lead_magnet_download)
+- [x] Dedicated landing pages: `/buy-avios` and `/buy-flying-blue-miles`
+- [x] Avios Calculator tool built (AviosCalculator.tsx)
+- [x] Miles Worth Calculator tool built (MilesWorthCalculator.tsx)
+- [x] Sweet Spots Guide page
+- [x] Privacy Policy and Impressum (EU/GDPR compliance)
+
+### 6.2 Immediate Actions (This Week)
+
 - [ ] Add FAQ schema markup to homepage FAQ section
 - [ ] Add Article schema to blog posts
-- [ ] Create canonical URLs for all pages
-- [ ] Ensure all images have alt text with keywords
-
-### 6.2 Short-Term (Next 2 Weeks)
-
-- [ ] Create dedicated landing pages: `/buy-avios` and `/buy-flying-blue-miles`
-- [ ] Build Avios value calculator tool
+- [ ] Create canonical URLs for all pages (currently set dynamically via React Helmet)
+- [ ] Audit all images - ensure alt text with keywords
 - [ ] Add breadcrumb navigation
-- [ ] Implement Open Graph images per page (not generic Unsplash)
-- [ ] Create Privacy Policy and Terms pages (EU/GDPR compliance)
-- [ ] Add Impressum (legal requirement for EU-facing business)
 
-### 6.3 Ongoing
+### 6.3 Short-Term (Next 2 Weeks)
+
+- [ ] Implement unique Open Graph images per page (not generic Unsplash)
+- [ ] Add Product schema to landing pages (/buy-avios, /buy-flying-blue-miles)
+- [ ] Create XML sitemap for blog posts specifically
+- [ ] Add internal linking structure between blog posts and landing pages
+
+### 6.4 Ongoing
 
 - [ ] Monitor Core Web Vitals in Search Console
 - [ ] Update sitemap with each new blog post
-- [ ] Track keyword rankings via Seorch
+- [ ] Track keyword rankings via Seorch / GSC
 - [ ] Monthly content refresh on high-value articles
 
 ---
@@ -231,16 +249,44 @@ Key data point from headforpoints.com analysis:
 
 ---
 
-## 9. Next Steps (Ordered by Priority)
+## 9. Next Steps (Ordered by Priority) — UPDATED 26 Feb 2026
 
-1. **THIS WEEK:** Publish first 2 blog posts (#1 "Cheapest Way to Buy Avios" + #2 "How to Buy Flying Blue Miles")
-2. **THIS WEEK:** Add robots.txt, FAQ schema, article schema
-3. **NEXT WEEK:** Create dedicated `/buy-avios` and `/buy-flying-blue-miles` landing pages
-4. **NEXT WEEK:** Publish posts #3 and #4
-5. **WEEK 3:** Build Avios value calculator tool
-6. **WEEK 3-4:** Start forum participation (FlyerTalk, Reddit)
-7. **WEEK 4:** First guest post pitch to frequentmiler.com
-8. **ONGOING:** 2 blog posts per week, monthly ranking review
+### ✅ Already Completed
+- Landing pages `/buy-avios` and `/buy-flying-blue-miles` live
+- Avios Calculator + Miles Worth Calculator built
+- robots.txt, GA4, event tracking implemented
+- 3 comprehensive blog posts published (QSuites, Flying Blue, Cheapest Avios)
+- Privacy Policy + Impressum live
+
+### Week 1 (26 Feb - 4 Mar)
+1. **Reddit:** 3 value-driven posts in r/awardtravel, r/churning (QSuites alerts, FB sweet spots, Avios comparison)
+2. **Blog:** "Flying Blue Miles for Sale UK: Complete 2026 Guide" (Difficulty 40)
+3. **Blog:** "Best Price to Purchase Avios Points in 2026" (Difficulty 38 — easiest)
+4. **SEO:** Add FAQ schema markup to all 3 existing blog posts
+5. **SEO:** Add Article schema to blog template
+6. **Community:** Join FlyerTalk + create signature link
+
+### Week 2 (5-11 Mar)
+7. **Blog:** "What Are Avios? A Beginner's Guide (2026)"
+8. **Blog:** "Is It Safe to Buy Miles Online? Security Guide 2026"
+9. **Reddit:** 2-3 helpful comments/posts
+10. **Twitter:** Thread breakdown of QSuites post (10 tweets)
+11. **SEO:** Add breadcrumb navigation
+
+### Week 3 (12-18 Mar)
+12. **Blog:** "Flying Blue Promo Rewards February 2026: Monthly Tracker"
+13. **Blog:** "How Much Do 10,000 Avios Cost? Real Pricing Breakdown"
+14. **SEO:** Internal linking audit — connect posts to landing pages
+15. **Outreach:** Guest post pitch to frequentmiler.com
+16. **Community:** 5+ valuable FlyerTalk responses
+
+### Week 4 (19-25 Mar)
+17. **Blog:** "Avios vs Flying Blue: Which Miles Should You Buy?"
+18. **Blog:** "Top Up Avios for Family Travel: Household Account Guide"
+19. **Research:** Begin "2026 Miles Buying Value Study" (50-route data)
+20. **SEO:** Create unique OG images for each blog post
+21. **HARO:** Respond to 3 travel/miles journalist queries
+22. **Audit:** Traffic + ranking review (What's working? Reddit vs SEO?)
 
 ---
 
